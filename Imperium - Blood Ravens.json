@@ -34,8 +34,22 @@
     ],
     "entryLinks": [
       {"name": "Astorath", "id": "1032-6744-7fe5-1975", "hidden": false, "import": true, "targetId": "f943-72c8-581c-e6f2", "type": "selectionEntry"},
-      {"name": "Chief Librarian Mephiston", "id": "4da4-68c3-8ab7-f762", "hidden": false, "import": true, "targetId": "ab35-2c36-9389-d1d5", "type": "selectionEntry"},
-      {"name": "Commander Dante", "id": "d641-aa45-acbb-beff", "hidden": false, "import": true, "targetId": "7323-ebf-9afe-7e7a", "type": "selectionEntry"},
+      {
+        "name": "Chief Librarian Jonah Orion",
+        "id": "4da4-68c3-8ab7-f762",
+        "hidden": false,
+        "import": true,
+        "targetId": "ab35-2c36-9389-d1d5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Chapter Master Gabriel Angelos",
+        "id": "d641-aa45-acbb-beff",
+        "hidden": false,
+        "import": true,
+        "targetId": "d6d8-eeee-cc2b-443c",
+        "type": "selectionEntry"
+      },
       {"name": "Lemartes", "id": "2ac0-a864-7232-daa1", "hidden": false, "import": true, "targetId": "cbc2-18c9-45b6-6327", "type": "selectionEntry"},
       {
         "name": "Librarian Dreadnought [Legends]",
@@ -45,11 +59,11 @@
         "targetId": "b6e0-b465-801c-24c8",
         "type": "selectionEntry"
       },
-      {"name": "Secret Masters", "id": "60a7-f8f9-1a93-41f0", "hidden": false, "import": true, "targetId": "25e4-ead-faac-2531", "type": "selectionEntry"},
-      {"name": "Sanguinary Priest", "id": "eea1-54d-9cb-4857", "hidden": false, "import": true, "targetId": "f80-be5-d17c-db23", "type": "selectionEntry"},
+      {"name": "Relic Guard", "id": "60a7-f8f9-1a93-41f0", "hidden": false, "import": true, "targetId": "25e4-ead-faac-2531", "type": "selectionEntry"},
+      {"name": "Blood Apothecary", "id": "eea1-54d-9cb-4857", "hidden": false, "import": true, "targetId": "f80-be5-d17c-db23", "type": "selectionEntry"},
       {"name": "The Sanguinor", "id": "8f52-7888-656e-133a", "hidden": false, "import": true, "targetId": "29f1-bb28-6424-6d14", "type": "selectionEntry"},
       {
-        "name": "Sanguinary Priest with Jump Pack",
+        "name": "Blood Apothecary with Jump Pack",
         "id": "518c-6b44-f47b-225",
         "hidden": false,
         "import": true,
@@ -301,7 +315,7 @@
           {"name": "Psyker", "id": "38cc-768a-1825-5bf", "primary": false, "targetId": "13bf-2bee-3ae0-b414"},
           {"name": "Faction: Adeptus Astartes", "id": "440f-cff0-1134-f3d2", "primary": false, "targetId": "6e7-40c-58d9-e402"},
           {"name": "Explosives", "id": "1eb7-1ea6-a216-b158", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
-          {"name": "Chief Librarian Mephiston", "id": "5bbc-df94-c178-a0dd", "hidden": false, "primary": false, "targetId": "369e-b2c9-4637-8cba"},
+          {"name": "Chief Librarian Jonah Orion", "id": "5bbc-df94-c178-a0dd", "hidden": false, "primary": false, "targetId": "369e-b2c9-4637-8cba"},
           {"name": "Faction: Blood Ravens", "id": "f149-408b-6ce5-545a", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
         ],
         "constraints": [{"id": "76f1-154d-581a-b2ae", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
@@ -332,7 +346,25 @@
           {"name": "Combat Doctrines", "id": "f68e-d897-dfbc-6937", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
           {"name": "Transhuman Strategist", "id": "223f-0b9c-b288-bfc9", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
         ],
-        "modifiers": [{"field": "hidden", "type": "set", "value": true}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "abac-bcd8-2afd-0b09",
+                "childName": "Imperium - Adeptus Astartes - Blood Ravens",
+                "field": "selections",
+                "includeChildSelections": false,
+                "scope": "primary-catalogue",
+                "shared": true,
+                "type": "notInstanceOf",
+                "value": 1
+              }
+            ]
+          }
+        ],
         "profiles": [
           {
             "name": "Chief Librarian Jonah Orion",
@@ -535,7 +567,7 @@
       },
       {
         "name": "Chapter Master Gabriel Angelos",
-        "id": "7323-ebf-9afe-7e7a",
+        "id": "d6d8-eeee-cc2b-443c",
         "hidden": false,
         "import": true,
         "type": "model",
@@ -589,7 +621,7 @@
           {"name": "Jump Pack", "id": "537b-2f08-b6e9-53e", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
           {"name": "Tacticus", "id": "27e3-c191-7a97-b3ca", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
           {"name": "Chapter Master", "id": "cc1a-ed37-aa1b-1d08", "primary": false, "targetId": "5bd8-882d-302b-48f3"},
-          {"name": "Commander Dante", "id": "dc1e-edb6-29a-c9ce", "primary": false, "targetId": "742d-f2f8-2cec-67b3"},
+          {"name": "Chapter Master Gabriel Angelos", "id": "dc1e-edb6-29a-c9ce", "primary": false, "targetId": "742d-f2f8-2cec-67b3"},
           {"name": "Leader", "id": "c024-cc59-5c61-9360", "primary": false, "targetId": "1556-9b56-fba6-4370"},
           {"name": "Explosives", "id": "6031-b872-c058-de92", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
           {"name": "Faction: Blood Ravens", "id": "89bc-f62c-8811-f8e3", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
@@ -614,10 +646,28 @@
           {"name": "Combat Doctrines", "id": "9b64-f32e-a05d-fa35", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
           {"name": "Transhuman Strategist", "id": "367b-65f9-0980-3bab", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
         ],
-        "modifiers": [{"field": "hidden", "type": "set", "value": true}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "abac-bcd8-2afd-0b09",
+                "childName": "Imperium - Adeptus Astartes - Blood Ravens",
+                "field": "selections",
+                "includeChildSelections": false,
+                "scope": "primary-catalogue",
+                "shared": true,
+                "type": "notInstanceOf",
+                "value": 1
+              }
+            ]
+          }
+        ],
         "profiles": [
           {
-            "name": "Commander Dante",
+            "name": "Chapter Master Gabriel Angelos",
             "id": "b450-c96f-6de3-ce60",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
