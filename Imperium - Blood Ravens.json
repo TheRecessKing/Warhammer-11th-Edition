@@ -33,7 +33,6 @@
       {"name": "Pistol replacement", "id": "0e2e-d320-d686-aa68", "hidden": true}
     ],
     "entryLinks": [
-      {"name": "High Chaplain Priscus", "id": "7bd7-1d46-1b52-716c", "hidden": false, "import": true, "targetId": "e7a3-4f84-dd49-90f5", "type": "selectionEntry"},
       {
         "name": "Chief Librarian Jonah Orion",
         "id": "8dac-003a-b4f0-d1b9",
