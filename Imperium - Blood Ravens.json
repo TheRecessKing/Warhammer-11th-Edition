@@ -5,104 +5,105 @@
     "authorName": "Acebaur",
     "battleScribeVersion": 2.03,
     "gameSystemId": "sys-352e-adc2-7639-d610",
-    "gameSystemRevision": 1,
+    "gameSystemRevision": 18,
     "library": false,
     "revision": 7,
     "type": "catalogue",
     "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
     "catalogueLinks": [
-      {"name": "Imperium - Space Marines", "id": "abd0-8ebd-6fbd-2d94", "importRootEntries": true, "targetId": "e0af-67df-9d63-8fb7", "type": "catalogue"},
+      {"name": "Imperium - Space Marines", "id": "74a5-2e0e-5c74-de7d", "importRootEntries": true, "targetId": "e0af-67df-9d63-8fb7", "type": "catalogue"},
       {
         "name": "Imperium - Imperial Knights - Library",
-        "id": "9c08-8ffc-d746-7384",
+        "id": "8462-38d2-7bfd-964f",
         "importRootEntries": true,
         "targetId": "1b6d-dc06-5db9-c7d1",
         "type": "catalogue"
       },
-      {"name": "Imperium - Agents of the Imperium", "id": "d012-8d6a-860f-79f0", "importRootEntries": true, "targetId": "b00-cd86-4b4c-97ba", "type": "catalogue"},
-      {"name": "Library - Adeptus Astartes", "id": "f6b6-8b73-a580-c17a", "targetId": "2807-3676-0684-5739", "type": "catalogue"}
+      {"name": "Imperium - Agents of the Imperium", "id": "4054-3d01-4b0f-3b17", "importRootEntries": true, "targetId": "b00-cd86-4b4c-97ba", "type": "catalogue"},
+      {"name": "Library - Adeptus Astartes", "id": "54b3-af54-435e-83a3", "targetId": "2807-3676-0684-5739", "type": "catalogue"}
     ],
     "categoryEntries": [
-      {"name": "Astorath", "id": "da64-bc59-71f9-96e8", "hidden": false},
-      {"name": "Chief Librarian Jonah Orion", "id": "369e-b2c9-4637-8cba", "hidden": false},
-      {"name": "Chapter Master Gabriel Angelos", "id": "742d-f2f8-2cec-67b3", "hidden": false},
-      {"name": "Furioso Dreadnought", "id": "2ee1-97ca-5a76-906a", "hidden": false},
-      {"name": "Lemartes", "id": "3763-9e4f-abed-718d", "hidden": false},
-      {"name": "Librarian Dreadnought", "id": "68e9-6942-27d7-bb11", "hidden": false},
-      {"name": "The Sanguinor", "id": "8f39-9585-fc72-ba71", "hidden": false},
-      {"name": "Pistol replacement", "id": "f06c-dfec-c720-57f1", "hidden": true}
+      {"name": "High Chaplain Priscus", "id": "4405-8305-6437-a78c", "hidden": false},
+      {"name": "Chief Librarian Jonah Orion", "id": "94ad-4064-a80f-8b77", "hidden": false},
+      {"name": "Chapter Master Gabriel Angelos", "id": "a7a3-0399-3bcd-30d0", "hidden": false},
+      {"name": "Ancients Dreadnought", "id": "f4ef-831b-8e70-9ef2", "hidden": false},
+      {"name": "Reclusiarch Mikelus", "id": "23be-ccae-8088-6f31", "hidden": false},
+      {"name": "Librarian Dreadnought", "id": "79f3-3975-9334-abac", "hidden": false},
+      {"name": "The Unknown Exemplar", "id": "78a2-e5c5-77e8-121e", "hidden": false},
+      {"name": "Pistol replacement", "id": "0e2e-d320-d686-aa68", "hidden": true}
     ],
     "entryLinks": [
-      {"name": "Astorath", "id": "1032-6744-7fe5-1975", "hidden": false, "import": true, "targetId": "f943-72c8-581c-e6f2", "type": "selectionEntry"},
+      {"name": "High Chaplain Priscus", "id": "7bd7-1d46-1b52-716c", "hidden": false, "import": true, "targetId": "e7a3-4f84-dd49-90f5", "type": "selectionEntry"},
       {
         "name": "Chief Librarian Jonah Orion",
-        "id": "4da4-68c3-8ab7-f762",
+        "id": "8dac-003a-b4f0-d1b9",
         "hidden": false,
         "import": true,
-        "targetId": "ab35-2c36-9389-d1d5",
+        "targetId": "8c4d-2579-75ee-2333",
         "type": "selectionEntry"
       },
       {
         "name": "Chapter Master Gabriel Angelos",
-        "id": "d641-aa45-acbb-beff",
+        "id": "a6b8-56a8-4871-0aeb",
         "hidden": false,
         "import": true,
-        "targetId": "d6d8-eeee-cc2b-443c",
+        "targetId": "b703-ea51-d980-6650",
         "type": "selectionEntry"
       },
-      {"name": "Lemartes", "id": "2ac0-a864-7232-daa1", "hidden": false, "import": true, "targetId": "cbc2-18c9-45b6-6327", "type": "selectionEntry"},
+      {"name": "Reclusiarch Mikelus", "id": "a0ca-a1c5-17c1-ab54", "hidden": false, "import": true, "targetId": "841e-8731-f0c7-5efa", "type": "selectionEntry"},
       {
         "name": "Librarian Dreadnought [Legends]",
-        "id": "273-d9f3-a459-c5a3",
+        "id": "1121-1f97-fd9c-101f",
         "hidden": false,
         "import": true,
-        "targetId": "b6e0-b465-801c-24c8",
+        "targetId": "72a0-8617-bca5-0840",
         "type": "selectionEntry"
       },
-      {"name": "Relic Guard", "id": "60a7-f8f9-1a93-41f0", "hidden": false, "import": true, "targetId": "25e4-ead-faac-2531", "type": "selectionEntry"},
-      {"name": "Blood Apothecary", "id": "eea1-54d-9cb-4857", "hidden": false, "import": true, "targetId": "f80-be5-d17c-db23", "type": "selectionEntry"},
-      {"name": "The Sanguinor", "id": "8f52-7888-656e-133a", "hidden": false, "import": true, "targetId": "29f1-bb28-6424-6d14", "type": "selectionEntry"},
+      {"name": "Relic Guard", "id": "1830-0627-d327-c9c1", "hidden": false, "import": true, "targetId": "77b9-56d9-7e54-043e", "type": "selectionEntry"},
+      {"name": "Blood Apothecary", "id": "b47a-24a7-eb34-d0aa", "hidden": false, "import": true, "targetId": "abc4-b21b-2774-f7b9", "type": "selectionEntry"},
+      {"name": "The Unknown Exemplar", "id": "b9ea-c2a1-6e2e-3a02", "hidden": false, "import": true, "targetId": "deff-7028-6c7d-a44c", "type": "selectionEntry"},
       {
         "name": "Blood Apothecary with Jump Pack",
-        "id": "518c-6b44-f47b-225",
+        "id": "3859-7fe1-a140-798a",
         "hidden": false,
         "import": true,
-        "targetId": "fa13-ba8a-8711-87b6",
+        "targetId": "1f39-51a2-521f-c4e2",
         "type": "selectionEntry"
-      }
+      },
+      {"name": "Blood Ravens Captain", "id": "208d-6ba1-4dad-65ed", "hidden": false, "import": true, "targetId": "786e-816c-ec7a-fe96", "type": "selectionEntry"}
     ],
     "sharedProfiles": [
       {
-        "name": "Black Rage",
-        "id": "3e0a-31f-8be-e293",
+        "name": "Psychic Oath of the Ravens",
+        "id": "c8c2-4133-fac7-edd1",
         "hidden": false,
         "typeId": "9cc3-6d83-4dd3-9b64",
         "typeName": "Abilities",
         "characteristics": [
           {
             "name": "Description",
-            "$text": "- This unit's melee attacks can re-roll hit rolls of 1.\n- While this unit is not within 6\" of one or more friendly **^^Blood Angels Character^^** models, or not within 12\" of one or more friendly ^^**Chaplain**^^ models, it cannot make a fall-back move and its OC is modified to 0.\n\n",
+            "$text": "- This unit's melee attacks can re-roll hit rolls of 1.\n- While this unit is not within 6\" of one or more friendly **^^Blood Ravens Character^^** models, or not within 12\" of one or more friendly ^^**Chaplain**^^ models, it cannot make a fall-back move and its OC is modified to 0.\n\n",
             "typeId": "9b8f-694b-e5e-b573"
           }
         ]
       },
       {
-        "name": "Visions of Heresy",
-        "id": "6b69-8f10-6d74-706c",
+        "name": "Foreknowledge of the Librarius",
+        "id": "4ddf-081c-f2ef-4ced",
         "hidden": false,
         "typeId": "9cc3-6d83-4dd3-9b64",
         "typeName": "Abilities",
         "characteristics": [
           {
             "name": "Description",
-            "$text": "Once per turn, you can target this unit with the Fire Overwatch Stratagem or the Heroic Intervention Stratagem for 0CP. While resolving that Strategem, each time a model in this unit makes a ranged attack you can re-roll the Hit roll, or you can re-roll the Charge roll made for this unit [whichever applies]",
+            "$text": "Once per turn, you can target this unit with the Fire Overwatch Stratagem or the Heroic Intervention Stratagem for 0CP. While resolving that Strategem, each time a model in this unit makes a ranged attack you can re-roll the Hit roll, or you can re-roll the Charge roll made for this unit [whichever applies]",
             "typeId": "9b8f-694b-e5e-b573"
           }
         ]
       },
       {
-        "name": "Death Vision of Sanguinius",
-        "id": "b276-0bcd-8baf-3c14",
+        "name": "Final Benediction of the Unknown Primarch",
+        "id": "b3da-a7fd-ad72-37ec",
         "hidden": false,
         "typeId": "9cc3-6d83-4dd3-9b64",
         "typeName": "Abilities",
@@ -115,8 +116,8 @@
         ]
       },
       {
-        "name": "Black Rage",
-        "id": "f0a7-d2d9-34a1-8194",
+        "name": "Psychic Oath of the Ravens",
+        "id": "a72e-5457-8614-8413",
         "comment": "Legends",
         "hidden": false,
         "typeId": "9cc3-6d83-4dd3-9b64",
@@ -124,7 +125,7 @@
         "characteristics": [
           {
             "name": "Description",
-            "$text": " Each time a model in this unit makes an attack, you can re-roll the Hit roll. While this unit is not within 12\" of one or more friendly ^^**Chaplain**^^ models, it cannot be selected to Fall Back and the Objective Control characteristic of models in this unit is 0. \n\n",
+            "$text": " Each time a model in this unit makes an attack, you can re-roll the Hit roll. While this unit is not within 12\" of one or more friendly ^^**Chaplain**^^ models, it cannot be selected to Fall Back and the Objective Control characteristic of models in this unit is 0. \n\n",
             "typeId": "9b8f-694b-e5e-b573"
           }
         ]
@@ -132,15 +133,15 @@
     ],
     "sharedSelectionEntries": [
       {
-        "name": "Astorath",
-        "id": "f943-72c8-581c-e6f2",
+        "name": "High Chaplain Priscus",
+        "id": "e7a3-4f84-dd49-90f5",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Leading",
-            "id": "5815-f68e-9375-2de5",
+            "id": "b62d-4f15-09f0-537e",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -168,20 +169,20 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Epic Hero", "id": "d23a-e650-3750-9f1c", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
-          {"name": "Character", "id": "de99-73ce-af5a-db0b", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "fc44-41f9-326d-2178", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Grenades", "id": "333-3750-4e57-1ac7", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
-          {"name": "Fly", "id": "8453-b83a-5c-4a5a", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Jump Pack", "id": "4069-39a2-f945-a58f", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "Imperium", "id": "35c2-8950-42de-80f7", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Chaplain", "id": "c781-4807-a539-d4d5", "primary": false, "targetId": "1fb1-3603-a4bd-485"},
-          {"name": "Faction: Adeptus Astartes", "id": "7602-2152-3830-4f1d", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Faction: Blood Angels", "id": "b2fd-e768-9174-9e5b", "primary": false, "targetId": "62ac-ef42-27b4-ae7"},
-          {"name": "Astorath", "id": "5e2c-d136-51e8-cf0c", "primary": false, "targetId": "da64-bc59-71f9-96e8"},
-          {"name": "Leader", "id": "1bf5-b212-1482-9f18", "primary": false, "targetId": "1556-9b56-fba6-4370"}
+          {"name": "Epic Hero", "id": "8dbe-604b-1b6d-adde", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
+          {"name": "Character", "id": "d66b-2022-5703-21ec", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "7d32-eac3-7408-d299", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Grenades", "id": "0700-d20f-1919-9891", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
+          {"name": "Fly", "id": "789a-9d1c-2dcf-3ecc", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Jump Pack", "id": "21ca-667e-4ac6-0e5c", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "Imperium", "id": "28c5-48b1-b6ed-8745", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Chaplain", "id": "2399-931d-a204-8278", "primary": false, "targetId": "1fb1-3603-a4bd-485"},
+          {"name": "Faction: Adeptus Astartes", "id": "0719-b5bd-7f26-ba30", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Faction: Blood Ravens", "id": "41d8-aeec-ab12-aa1b", "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "High Chaplain Priscus", "id": "45a3-2928-1e7c-f97b", "primary": false, "targetId": "4405-8305-6437-a78c"},
+          {"name": "Leader", "id": "04fe-354f-8409-1cf2", "primary": false, "targetId": "1556-9b56-fba6-4370"}
         ],
-        "constraints": [{"id": "373e-99de-ce49-806b", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "da37-24d5-aa10-1ba2", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 90},
           {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
@@ -194,17 +195,35 @@
           {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
-        "entryLinks": [{"name": "Warlord", "id": "a04b-7774-2d80-be8b", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
+        "entryLinks": [{"name": "Warlord", "id": "6f4c-87dd-c37c-9de4", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
         "infoLinks": [
-          {"name": "Leader", "id": "7b0-1020-2ea9-e14e", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "adae-4433-67ed-1793", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
-          {"name": "Deep Strike", "id": "87bd-4a20-9d91-21bd", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"}
+          {"name": "Leader", "id": "7e44-df36-42f4-ed0d", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "4ed0-a98e-927e-c9d9", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
+          {"name": "Deep Strike", "id": "aede-b67f-7bcd-3041", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"}
         ],
-        "modifiers": [{"field": "hidden", "type": "set", "value": true}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "abac-bcd8-2afd-0b09",
+                "childName": "Imperium - Adeptus Astartes - Blood Ravens",
+                "field": "selections",
+                "includeChildSelections": false,
+                "scope": "primary-catalogue",
+                "shared": true,
+                "type": "notInstanceOf",
+                "value": 1
+              }
+            ]
+          }
+        ],
         "profiles": [
           {
-            "name": "Astorath",
-            "id": "bd83-7f95-9b20-3b25",
+            "name": "High Chaplain Priscus",
+            "id": "7127-b569-815c-36d3",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -220,8 +239,8 @@
             ]
           },
           {
-            "name": "Redeemer of the Lost",
-            "id": "c5e1-99a6-a51e-251e",
+            "name": "Shepherd of the Oathsworn",
+            "id": "7ca8-ace6-4795-5b04",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -234,8 +253,8 @@
             ]
           },
           {
-            "name": "Mass of Doom",
-            "id": "2cc0-3a51-cd4f-429e",
+            "name": "Litany of Retribution",
+            "id": "fb60-bd8c-f39e-2c57",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -249,7 +268,7 @@
           },
           {
             "name": "Leader",
-            "id": "7ee0-8183-ece2-25c9",
+            "id": "9610-8a85-3fdf-0f59",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -258,23 +277,23 @@
         ],
         "selectionEntries": [
           {
-            "name": "The Executioner's Axe",
-            "id": "8522-5c3c-15e7-4d78",
+            "name": "Axe of Penance",
+            "id": "8db0-6262-ced0-844e",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "1f54-8950-db7e-ef05", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "f850-7583-12d3-3f22", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "2dba-c320-5163-dd53", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "050d-b4e4-7504-0e6d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Devastating Wounds", "id": "78af-df21-fdda-b093", "hidden": false, "targetId": "be1e-ac8e-1e2c-3528", "type": "rule"},
-              {"name": "Precision", "id": "84f9-8fc2-a553-b11b", "hidden": false, "targetId": "9143-31ae-e0a6-6007", "type": "rule"}
+              {"name": "Devastating Wounds", "id": "0484-e117-dcef-fcff", "hidden": false, "targetId": "be1e-ac8e-1e2c-3528", "type": "rule"},
+              {"name": "Precision", "id": "d86c-a224-6f12-e097", "hidden": false, "targetId": "9143-31ae-e0a6-6007", "type": "rule"}
             ],
             "profiles": [
               {
-                "name": "The Executioner's Axe",
-                "id": "d655-eefd-e172-20ae",
+                "name": "Axe of Penance",
+                "id": "2380-02a0-78d1-23a9",
                 "hidden": false,
                 "typeId": "8a40-4aaa-c780-9046",
                 "typeName": "Melee Weapons",
@@ -294,31 +313,31 @@
         "selectionEntryGroups": [
           {
             "name": "Crusade",
-            "id": "b2a5-774d-bc84-39e2",
+            "id": "d782-8dfc-22c1-4666",
             "hidden": false,
             "sortIndex": 1,
-            "entryLinks": [{"name": "Mighty Champions", "id": "3224-c427-61bb-7de8", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
+            "entryLinks": [{"name": "Mighty Champions", "id": "b6b1-ccb9-6683-513f", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
           }
         ]
       },
       {
         "name": "Chief Librarian Jonah Orion",
-        "id": "ab35-2c36-9389-d1d5",
+        "id": "8c4d-2579-75ee-2333",
         "hidden": false,
         "import": true,
         "type": "model",
         "categoryLinks": [
-          {"name": "Epic Hero", "id": "3237-1a66-35d0-d554", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
-          {"name": "Character", "id": "a7ac-3054-3c4f-5316", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "1738-e3f9-79df-a4d8", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Tacticus", "id": "3abf-3c69-1687-6a48", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
-          {"name": "Psyker", "id": "38cc-768a-1825-5bf", "primary": false, "targetId": "13bf-2bee-3ae0-b414"},
-          {"name": "Faction: Adeptus Astartes", "id": "440f-cff0-1134-f3d2", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Explosives", "id": "1eb7-1ea6-a216-b158", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
-          {"name": "Chief Librarian Jonah Orion", "id": "5bbc-df94-c178-a0dd", "hidden": false, "primary": false, "targetId": "369e-b2c9-4637-8cba"},
-          {"name": "Faction: Blood Ravens", "id": "f149-408b-6ce5-545a", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
+          {"name": "Epic Hero", "id": "fbce-e209-fab5-b6d0", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
+          {"name": "Character", "id": "aa5f-750b-4c8b-ed4c", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "ff07-4514-781e-c9f0", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Tacticus", "id": "43ed-45dd-8578-8234", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
+          {"name": "Psyker", "id": "62f7-7f03-44f3-ad09", "primary": false, "targetId": "13bf-2bee-3ae0-b414"},
+          {"name": "Faction: Adeptus Astartes", "id": "0331-6137-062b-7872", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Explosives", "id": "3481-41b4-c9ae-c600", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
+          {"name": "Chief Librarian Jonah Orion", "id": "55d4-255d-2dbd-fd2c", "hidden": false, "primary": false, "targetId": "94ad-4064-a80f-8b77"},
+          {"name": "Faction: Blood Ravens", "id": "5782-33b6-87af-93ca", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
         ],
-        "constraints": [{"id": "76f1-154d-581a-b2ae", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "55d4-e63b-b766-29ef", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 175},
           {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
@@ -331,20 +350,20 @@
           {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
-        "entryLinks": [{"name": "Warlord", "id": "27f7-9d4c-d894-cc79", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
+        "entryLinks": [{"name": "Warlord", "id": "7ca2-1e63-779d-55e6", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
         "infoLinks": [
-          {"name": "Lone Operative", "id": "bbd9-ef6d-ff95-fe5f", "hidden": false, "targetId": "a8a0-8fe7-898-e0f3", "type": "rule"},
-          {"name": "Fights First", "id": "c09b-5168-fe10-510", "hidden": false, "targetId": "24-c886-e8ba-5a89", "type": "rule"},
+          {"name": "Lone Operative", "id": "160a-12ed-6ae0-90f6", "hidden": false, "targetId": "a8a0-8fe7-898-e0f3", "type": "rule"},
+          {"name": "Fights First", "id": "3b07-0db6-0f35-b87f", "hidden": false, "targetId": "24-c886-e8ba-5a89", "type": "rule"},
           {
             "name": "Feel No Pain",
-            "id": "5f6-7507-b7e2-652",
+            "id": "e127-6ac0-3681-ad4b",
             "hidden": false,
             "targetId": "9bf4-280f-bbe2-6fbb",
             "type": "rule",
             "modifiers": [{"field": "name", "type": "append", "value": "5+"}]
           },
-          {"name": "Combat Doctrines", "id": "f68e-d897-dfbc-6937", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
-          {"name": "Transhuman Strategist", "id": "223f-0b9c-b288-bfc9", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
+          {"name": "Combat Doctrines", "id": "69d3-2b10-f414-d55f", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
+          {"name": "Transhuman Strategist", "id": "f8b6-f860-722b-5d14", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
         ],
         "modifiers": [
           {
@@ -368,7 +387,7 @@
         "profiles": [
           {
             "name": "Chief Librarian Jonah Orion",
-            "id": "f720-8cb3-065e-92f9",
+            "id": "3766-f2f7-a3c1-dc9e",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -384,8 +403,8 @@
             ]
           },
           {
-            "name": "Emperors Light (psychic level 1)",
-            "id": "f775-5667-be0b-35bc",
+            "name": "Emperor's Light (Psychic Level 1)",
+            "id": "4e73-d210-ab68-b4c4",
             "hidden": false,
             "typeId": "7e03-38c2-7fea-e955",
             "typeName": "Psychic Abilities",
@@ -398,8 +417,8 @@
             ]
           },
           {
-            "name": "Stone Wall (psychic level 2)",
-            "id": "b48f-aef0-7aa9-3500",
+            "name": "Stone Wall (Psychic Level 2)",
+            "id": "64b3-826d-b3b7-8992",
             "hidden": false,
             "typeId": "7e03-38c2-7fea-e955",
             "typeName": "Psychic Abilities",
@@ -413,7 +432,7 @@
           },
           {
             "name": "Chief Librarian (Psyker level 3)",
-            "id": "908b-58b9-af6d-7652",
+            "id": "2b08-20bf-80b9-aff6",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -422,25 +441,25 @@
         ],
         "selectionEntries": [
           {
-            "name": "Fury of the Ancients",
-            "id": "3e81-bf38-a34e-8750",
+            "name": "Wrath of the Librarius",
+            "id": "e975-4d82-3966-7ac0",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "23c9-b338-f308-4f28", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "1239-e17c-525f-ef58", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "710a-3f21-ba3a-777d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "ad2b-1ab9-2f97-f25e", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Hazardous", "id": "db6e-451f-943a-870a", "hidden": false, "targetId": "8367-374c-f87-c627", "type": "rule"},
-              {"name": "Assault", "id": "dfe-8eda-7f91-d0ac", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"},
-              {"name": "Close-quarters", "id": "4d3f-56a1-d3dd-ee01", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
-              {"name": "Psychic", "id": "2b16-bb92-1501-efc", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"}
+              {"name": "Hazardous", "id": "208b-6853-72e6-4911", "hidden": false, "targetId": "8367-374c-f87-c627", "type": "rule"},
+              {"name": "Assault", "id": "ebb6-f7c9-6312-d5a6", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"},
+              {"name": "Close-quarters", "id": "b8b8-55d0-b304-99ab", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
+              {"name": "Psychic", "id": "e3ab-a1eb-6f8c-0a0d", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"}
             ],
             "profiles": [
               {
-                "name": "➤ Fury of the Ancients - Witchfire",
-                "id": "eb07-22b3-d1eb-7552",
+                "name": "➤ Wrath of the Librarius - Witchfire",
+                "id": "e743-ce8a-6b17-e385",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -455,8 +474,8 @@
                 ]
               },
               {
-                "name": "➤ Fury of the Ancients - Focused Witchfire",
-                "id": "9fcd-a0d8-4804-c08a",
+                "name": "➤ Wrath of the Librarius - Focused Witchfire",
+                "id": "9145-2a54-1120-c27b",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -474,22 +493,22 @@
           },
           {
             "name": "Force Staff of Malcador the Sigillite",
-            "id": "6b1d-168e-4014-2289",
+            "id": "c486-64df-3e5e-1d92",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "a919-5f4c-ebed-40fe", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "286c-4d19-2daf-6a7d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "a1be-30bc-b0e6-e056", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "f5f4-56f5-7ef6-05ea", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Psychic", "id": "8857-71d-141b-9b55", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"},
-              {"name": "Lethal Hits", "id": "0c5e-f321-0e8c-5409", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"}
+              {"name": "Psychic", "id": "4df9-0e4e-3bea-8c6b", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"},
+              {"name": "Lethal Hits", "id": "d1a9-cedb-6c04-f98b", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"}
             ],
             "profiles": [
               {
                 "name": "Force Staff of Malcador the Sigillite",
-                "id": "3da4-7876-bd83-6904",
+                "id": "cb02-42b9-0623-fbc7",
                 "hidden": false,
                 "typeId": "8a40-4aaa-c780-9046",
                 "typeName": "Melee Weapons",
@@ -507,22 +526,22 @@
           },
           {
             "name": "Plasma pistol",
-            "id": "022d-6abd-2650-0407",
+            "id": "8c5e-69cf-9191-34c8",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "3ae3-524a-abbf-6ba7-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "3ae3-524a-abbf-6ba7-max", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "08d7-0223-50a4-cbb5", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "2ba3-931e-a673-0098", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Assault", "id": "f8e5-e6fb-e1b4-6d55", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"},
-              {"name": "Close-quarters", "id": "3667-1902-3e82-58c0", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"}
+              {"name": "Assault", "id": "37fa-7e86-4edf-d33e", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"},
+              {"name": "Close-quarters", "id": "4170-b60c-76b3-9b77", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"}
             ],
             "profiles": [
               {
                 "name": "➤ Plasma pistol - standard",
-                "id": "a00b-6bcb-c59b-1376",
+                "id": "bbc2-f3bf-a934-24a8",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -538,7 +557,7 @@
               },
               {
                 "name": "➤ Plasma pistol - supercharge",
-                "id": "f7dc-7751-1d2d-4220",
+                "id": "cc26-54c9-46d7-2a2d",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -558,23 +577,23 @@
         "selectionEntryGroups": [
           {
             "name": "Crusade",
-            "id": "ece1-c32e-66ab-aad2",
+            "id": "dab2-9ad8-1c98-9997",
             "hidden": false,
             "sortIndex": 1,
-            "entryLinks": [{"name": "Mighty Champions", "id": "fae3-45b2-a012-dbd5", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
+            "entryLinks": [{"name": "Mighty Champions", "id": "1e5f-d33e-a52a-3135", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
           }
         ]
       },
       {
         "name": "Chapter Master Gabriel Angelos",
-        "id": "d6d8-eeee-cc2b-443c",
+        "id": "b703-ea51-d980-6650",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Leading",
-            "id": "10b4-7b4c-7395-5b2f",
+            "id": "977a-b3d3-8727-6b60",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -596,7 +615,7 @@
                     "type": "instanceOf",
                     "value": 1
                   },
-                  {"childId": "d30a-a7c5-389a-e78", "childName": "Sanguinary Guard", "field": "selections", "scope": "self", "shared": true, "type": "instanceOf", "value": 1},
+                  {"childId": "d30a-a7c5-389a-e78", "childName": "Relic Guard", "field": "selections", "scope": "self", "shared": true, "type": "instanceOf", "value": 1},
                   {
                     "childId": "17c0-599-955a-bdab",
                     "childName": "Vanguard Veteran Squad with Jump Packs",
@@ -612,21 +631,21 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Epic Hero", "id": "923b-c5fc-cd3b-c5bc", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
-          {"name": "Character", "id": "f571-17c8-73c0-142d", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "3ee5-fd0-d03f-2875", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Imperium", "id": "3efa-34dd-be75-3a12", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Fly", "id": "601f-3afb-73dc-d183", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Faction: Adeptus Astartes", "id": "42ad-a8f4-fc9-f298", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Jump Pack", "id": "537b-2f08-b6e9-53e", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "Tacticus", "id": "27e3-c191-7a97-b3ca", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
-          {"name": "Chapter Master", "id": "cc1a-ed37-aa1b-1d08", "primary": false, "targetId": "5bd8-882d-302b-48f3"},
-          {"name": "Chapter Master Gabriel Angelos", "id": "dc1e-edb6-29a-c9ce", "primary": false, "targetId": "742d-f2f8-2cec-67b3"},
-          {"name": "Leader", "id": "c024-cc59-5c61-9360", "primary": false, "targetId": "1556-9b56-fba6-4370"},
-          {"name": "Explosives", "id": "6031-b872-c058-de92", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
-          {"name": "Faction: Blood Ravens", "id": "89bc-f62c-8811-f8e3", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
+          {"name": "Epic Hero", "id": "2a05-027e-ccc9-743e", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
+          {"name": "Character", "id": "9b8a-bf76-6b21-98fc", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "2892-cc76-55e2-5d2c", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Imperium", "id": "6e3a-7deb-8f3e-e1fe", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Fly", "id": "0b41-36e0-b582-040e", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Faction: Adeptus Astartes", "id": "d420-9b34-3a19-800c", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Jump Pack", "id": "1ab4-567a-3c4a-8577", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "Tacticus", "id": "bd9f-cc75-5431-3f91", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
+          {"name": "Chapter Master", "id": "b2b5-815e-adff-8c50", "primary": false, "targetId": "5bd8-882d-302b-48f3"},
+          {"name": "Chapter Master Gabriel Angelos", "id": "b6c5-4193-8a18-f3f4", "primary": false, "targetId": "a7a3-0399-3bcd-30d0"},
+          {"name": "Leader", "id": "189f-77d5-c930-a199", "primary": false, "targetId": "1556-9b56-fba6-4370"},
+          {"name": "Explosives", "id": "589e-b0cf-9de4-0fb1", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
+          {"name": "Faction: Blood Ravens", "id": "d151-f523-1926-ad21", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
         ],
-        "constraints": [{"id": "573f-bbc-4c57-25ce", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "6a05-79c3-539d-179f", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 140},
           {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
@@ -639,12 +658,12 @@
           {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
-        "entryLinks": [{"name": "Warlord", "id": "75b-952d-efa4-257c", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
+        "entryLinks": [{"name": "Warlord", "id": "5f62-7720-0811-565f", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
         "infoLinks": [
-          {"name": "Leader", "id": "c160-102b-4a96-6800", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
-          {"name": "Deep Strike", "id": "9f0a-5bd0-d9ad-c5dd", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "9b64-f32e-a05d-fa35", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
-          {"name": "Transhuman Strategist", "id": "367b-65f9-0980-3bab", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
+          {"name": "Leader", "id": "974f-2f9b-5ca3-e65d", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
+          {"name": "Deep Strike", "id": "1365-c3c2-e07d-e7f7", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "2c93-7726-8800-a69b", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
+          {"name": "Transhuman Strategist", "id": "93b7-fbc2-198f-1bab", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
         ],
         "modifiers": [
           {
@@ -668,7 +687,7 @@
         "profiles": [
           {
             "name": "Chapter Master Gabriel Angelos",
-            "id": "b450-c96f-6de3-ce60",
+            "id": "9135-10c8-ce4a-aaad",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -684,8 +703,8 @@
             ]
           },
           {
-            "name": "Death Mask of Sanguinius",
-            "id": "edcb-c05a-9bcb-12c7",
+            "name": "Aegis of Cyrene",
+            "id": "3407-d486-c26a-5e6c",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -698,8 +717,8 @@
             ]
           },
           {
-            "name": "Lord Regent of the Imperium Nihilus",
-            "id": "56e5-d5ec-38c6-e113",
+            "name": "Chapter Master of the Blood Ravens",
+            "id": "1403-58c8-bcd6-1d41",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -713,14 +732,14 @@
           },
           {
             "name": "Leader",
-            "id": "b139-df4f-7162-cce8",
+            "id": "f40d-4df0-5ba8-d0cc",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "This model can be attached to the following units:\n\n■ Assault Squad with Jump Packs\n■ Sanguinary Guard\n■ Vanguard Veteran Squad with Jump Packs\n■ Assault Intercessors with Jump Packs",
+                "$text": "This model can be attached to the following units:\n\n■ Assault Squad with Jump Packs\n■ Relic Guard\n■ Vanguard Veteran Squad with Jump Packs\n■ Assault Intercessors with Jump Packs",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
@@ -729,23 +748,23 @@
         "selectionEntries": [
           {
             "name": "The Left Hand of Gabriel",
-            "id": "bb14-e5bb-e2b3-8e8f",
+            "id": "d22d-59b3-d4c4-03b4",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "72a7-eeb5-8dd7-9a77", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "cd2-dec5-5937-dfdc", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "5107-7c23-b26b-3376", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "bf6e-eaea-a35b-264a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Melta", "id": "14c7-d026-3f33-df36", "hidden": false, "targetId": "7cdb-fb99-44a9-8849", "type": "rule"},
-              {"name": "Close-quarters", "id": "ae5e-e22-b492-b463", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
-              {"name": "Sustained Hits", "id": "4a1d-1068-3f3c-f477", "hidden": false, "targetId": "1897-c22c-9597-12b1", "type": "rule"}
+              {"name": "Melta", "id": "3431-7069-10e8-b63f", "hidden": false, "targetId": "7cdb-fb99-44a9-8849", "type": "rule"},
+              {"name": "Close-quarters", "id": "4956-63a6-7c55-eaa1", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
+              {"name": "Sustained Hits", "id": "ec0f-f85d-361c-f815", "hidden": false, "targetId": "1897-c22c-9597-12b1", "type": "rule"}
             ],
             "profiles": [
               {
-                "name": "Perdition Pistol",
-                "id": "8a9c-58f8-e882-c7d",
+                "name": "The Left Hand of Gabriel",
+                "id": "0463-6ec4-bfdd-496b",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -763,19 +782,19 @@
           },
           {
             "name": "God-Splitter",
-            "id": "5520-c4aa-4543-7961",
+            "id": "e91d-a478-4e09-c5da",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "1227-ec-7043-ed3f", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "f2c5-8ae-8c30-82fd", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "03c0-b76f-53d8-2924", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "7688-70b0-21be-980d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "infoLinks": [{"name": "Lethal Hits", "id": "db7a-70c3-253d-e267", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"}],
+            "infoLinks": [{"name": "Lethal Hits", "id": "a889-3e83-efa2-3fa0", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"}],
             "profiles": [
               {
                 "name": "God-Splitter",
-                "id": "49e5-830e-9a2d-1b9a",
+                "id": "334d-9884-d932-30b6",
                 "hidden": false,
                 "typeId": "8a40-4aaa-c780-9046",
                 "typeName": "Melee Weapons",
@@ -795,31 +814,31 @@
         "selectionEntryGroups": [
           {
             "name": "Crusade",
-            "id": "75cd-f8db-eb22-5f66",
+            "id": "a12b-210d-3c84-fa60",
             "hidden": false,
             "sortIndex": 1,
-            "entryLinks": [{"name": "Mighty Champions", "id": "1493-829b-a07f-c2a3", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
+            "entryLinks": [{"name": "Mighty Champions", "id": "f071-98e1-f188-db68", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
           }
         ]
       },
       {
         "name": "Magna-grapple",
-        "id": "e10f-d69c-d7f4-2da2",
+        "id": "dbb5-6326-9bed-0fd5",
         "hidden": false,
         "import": true,
         "type": "upgrade",
-        "constraints": [{"id": "b4e3-4eba-7d13-92c9", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "106d-64c6-c8f0-8231", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
         "profiles": [
           {
             "name": "Magna-grapple",
-            "id": "c5b0-88dc-12d1-c106",
+            "id": "95c6-f338-8a5c-8d9a",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "The bearer loses the Smoke keyword, but  add 2 to Charge rolls made for the bearer if one or more of the targets of that charge is a Monster or Vehicle unit",
+                "$text": "The bearer loses the Smoke keyword, but add 2 to Charge rolls made for the bearer if one or more of the targets of that charge is a Monster or Vehicle unit",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
@@ -827,30 +846,48 @@
         ]
       },
       {
-        "name": "Blood Talons",
-        "id": "2fdd-d483-e57c-c85c",
+        "name": "Raven Talons",
+        "id": "7230-80fa-e6de-0840",
         "hidden": false,
         "import": true,
         "type": "upgrade",
         "entryLinks": [
-          {"name": "Weapon Modifications", "id": "011b-f597-8cc1-cede", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+          {"name": "Weapon Modifications", "id": "8ab2-1344-9bb8-e9a9", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
         ],
-        "infoLinks": [{"name": "Twin-linked", "id": "6c34-f2f8-b27d-ec7d", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}]
-      },
-      {
-        "name": "Twin Furioso Fists",
-        "id": "5ff3-dd75-ccbd-a39f",
-        "hidden": false,
-        "import": true,
-        "type": "upgrade",
-        "entryLinks": [
-          {"name": "Weapon Modifications", "id": "a5f0-bcfe-8ac1-9f40", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
-        ],
-        "infoLinks": [{"name": "Twin-linked", "id": "704c-c224-4100-4117", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}],
+        "infoLinks": [{"name": "Twin-linked", "id": "43f2-641a-db7f-af97", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}],
         "profiles": [
           {
-            "name": "Twin Furioso Fists",
-            "id": "4ed6-3943-e727-be74",
+            "name": "Raven Talons",
+            "id": "bb8e-d755-a848-e6af",
+            "hidden": false,
+            "typeId": "8a40-4aaa-c780-9046",
+            "typeName": "Melee Weapons",
+            "characteristics": [
+              {"name": "Range", "$text": "Melee", "typeId": "914c-b413-91e3-a132"},
+              {"name": "A", "$text": "7", "typeId": "2337-daa1-6682-b110"},
+              {"name": "WS", "$text": "3+", "typeId": "95d1-95f-45b4-11d6"},
+              {"name": "S", "$text": "8", "typeId": "ab33-d393-96ce-ccba"},
+              {"name": "AP", "$text": "-2", "typeId": "41a0-1301-112a-e2f2"},
+              {"name": "D", "$text": "3", "typeId": "3254-9fe6-d824-513e"},
+              {"name": "Keywords", "$text": "Twin-linked", "typeId": "893f-9000-ccf7-648e"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Twin Dreadnought Fists",
+        "id": "d539-653f-dcec-632c",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "entryLinks": [
+          {"name": "Weapon Modifications", "id": "275e-e656-c801-be19", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+        ],
+        "infoLinks": [{"name": "Twin-linked", "id": "b520-0da0-2301-5708", "hidden": false, "targetId": "cf93-ad4d-2f08-a79d", "type": "rule"}],
+        "profiles": [
+          {
+            "name": "Twin Dreadnought Fists",
+            "id": "62e1-a693-01d0-1722",
             "hidden": false,
             "typeId": "8a40-4aaa-c780-9046",
             "typeName": "Melee Weapons",
@@ -867,15 +904,15 @@
         ]
       },
       {
-        "name": "Lemartes",
-        "id": "cbc2-18c9-45b6-6327",
+        "name": "Reclusiarch Mikelus",
+        "id": "841e-8731-f0c7-5efa",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Leading",
-            "id": "da7d-20c5-f38d-a2fd",
+            "id": "7a8a-9ea8-c3e3-ad2b",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -903,20 +940,20 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Epic Hero", "id": "40ee-2e76-5838-d294", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
-          {"name": "Character", "id": "2bff-b3cb-96fb-e5e", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "792f-de94-80d5-59c8", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Imperium", "id": "a460-2bf6-a032-58c1", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Fly", "id": "3450-8168-5c0f-24d1", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Chaplain", "id": "5c8b-c2bc-c24a-7947", "primary": false, "targetId": "1fb1-3603-a4bd-485"},
-          {"name": "Lemartes", "id": "84d2-d462-be22-18b4", "primary": false, "targetId": "3763-9e4f-abed-718d"},
-          {"name": "Faction: Adeptus Astartes", "id": "306c-4b2c-1e6-d8c4", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Faction: Blood Angels", "id": "2458-9dd0-bd9a-ebc", "primary": false, "targetId": "62ac-ef42-27b4-ae7"},
-          {"name": "Jump Pack", "id": "26c6-9ca3-e011-47b", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "Leader", "id": "85e2-c17a-5848-5787", "primary": false, "targetId": "1556-9b56-fba6-4370"},
-          {"name": "Explosives", "id": "c103-4ef7-38f1-b394", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"}
+          {"name": "Epic Hero", "id": "a08d-4f3a-7ca3-77f7", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
+          {"name": "Character", "id": "efe8-d840-ac47-ee65", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "a71d-74cb-2f19-c186", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Imperium", "id": "0ec8-f5d9-b7d2-8ec9", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Fly", "id": "b5f7-4219-f5b6-04eb", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Chaplain", "id": "592b-870d-30f5-8e83", "primary": false, "targetId": "1fb1-3603-a4bd-485"},
+          {"name": "Reclusiarch Mikelus", "id": "9041-aa82-6b0a-bc28", "primary": false, "targetId": "23be-ccae-8088-6f31"},
+          {"name": "Faction: Adeptus Astartes", "id": "29f8-db55-832d-958e", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Faction: Blood Ravens", "id": "0e03-d556-7aea-d6ce", "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "Jump Pack", "id": "3941-581b-6646-202e", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "Leader", "id": "2429-d526-be22-16fb", "primary": false, "targetId": "1556-9b56-fba6-4370"},
+          {"name": "Explosives", "id": "a5fe-dfcf-0f95-d0d8", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"}
         ],
-        "constraints": [{"id": "c4cb-6409-6c33-6458", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "9070-62da-2b06-ce79", "field": "selections", "scope": "roster", "shared": true, "type": "max", "value": 1}],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 110},
           {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
@@ -929,14 +966,14 @@
           {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
-        "entryLinks": [{"name": "Warlord", "id": "3553-2c25-6f68-f80d", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
+        "entryLinks": [{"name": "Warlord", "id": "e85b-fa9e-1444-9a19", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
         "infoLinks": [
-          {"name": "Leader", "id": "18ce-e4f9-e8d6-c31e", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "fc0f-90ee-d8d7-18ec", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
-          {"name": "Deep Strike", "id": "ff09-2842-cdf2-0b23", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
+          {"name": "Leader", "id": "29c9-1a63-e6d9-26ba", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "1c0d-c9f3-0bc2-e7a8", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
+          {"name": "Deep Strike", "id": "36ca-a74d-59aa-2fea", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
           {
             "name": "Feel No Pain",
-            "id": "2896-d4b4-a766-d0a9",
+            "id": "cd54-4f23-92e6-b33a",
             "hidden": false,
             "targetId": "9bf4-280f-bbe2-6fbb",
             "type": "rule",
@@ -951,11 +988,27 @@
           }
         ],
         "modifiers": [
-          {"field": "hidden", "type": "set", "value": true},
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "abac-bcd8-2afd-0b09",
+                "childName": "Imperium - Adeptus Astartes - Blood Ravens",
+                "field": "selections",
+                "includeChildSelections": false,
+                "scope": "primary-catalogue",
+                "shared": true,
+                "type": "notInstanceOf",
+                "value": 1
+              }
+            ]
+          },
           {
             "affects": "self.entries.group.recursive.profiles.Melee Weapons",
             "field": "893f-9000-ccf7-648e",
-            "join": ", ",
+            "join": ", ",
             "skipIfPresent": "Lethal Hits",
             "type": "append",
             "value": "Lethal Hits"
@@ -963,7 +1016,7 @@
           {
             "affects": "self.entries.group.recursive.profiles.Melee Weapons",
             "field": "893f-9000-ccf7-648e",
-            "join": ", ",
+            "join": ", ",
             "skipIfPresent": "Lethal Hits",
             "type": "append",
             "value": "Lethal Hits",
@@ -972,8 +1025,8 @@
         ],
         "profiles": [
           {
-            "name": "Lemartes",
-            "id": "f844-d1c0-c50d-cfa0",
+            "name": "Reclusiarch Mikelus",
+            "id": "cfe6-c039-d09f-97da",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -989,16 +1042,16 @@
             ]
           },
           {
-            "name": "Guardian of the Lost",
-            "id": "e07d-ca56-c77-2dce",
+            "name": "Warden of the Oathsworn",
+            "id": "cd5c-0453-bdd0-441d",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [{"name": "Description", "$text": "Attacks that target this unit have -1 D.", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
-            "name": "Fury Unbound",
-            "id": "3863-f078-be63-9230",
+            "name": "Zealous Fury",
+            "id": "a76f-d1d4-1371-6f8b",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -1006,7 +1059,7 @@
           },
           {
             "name": "Leader",
-            "id": "b59a-25b8-9dc3-3f25",
+            "id": "b6da-26d1-3d58-7cab",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -1017,23 +1070,23 @@
         ],
         "selectionEntries": [
           {
-            "name": "The Blood Crozius",
-            "id": "9fdf-98cb-7bce-cbd8",
+            "name": "Crozius of Cyrene",
+            "id": "dfe9-d99c-628d-f79d",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "63c8-6d1b-d1e4-da25", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "d012-dd7b-34f0-75d5", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "1229-bc66-2cb8-419e", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "5fc4-46ad-8dad-dc9a", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
             "infoLinks": [
-              {"name": "Lethal Hits", "id": "3e3a-c4a2-206c-1e45", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"},
-              {"name": "Cleave", "id": "dfce-9232-1140-5ed5", "hidden": false, "targetId": "bf16-5d16-4725-f912", "type": "rule"}
+              {"name": "Lethal Hits", "id": "7e50-4184-fb79-a86f", "hidden": false, "targetId": "d1d1-611e-5191-1095", "type": "rule"},
+              {"name": "Cleave", "id": "301b-c369-3f08-f4f3", "hidden": false, "targetId": "bf16-5d16-4725-f912", "type": "rule"}
             ],
             "profiles": [
               {
-                "name": "The Blood Crozius",
-                "id": "13fa-271d-cece-f0b6",
+                "name": "Crozius of Cyrene",
+                "id": "f156-9fd3-1306-1331",
                 "hidden": false,
                 "typeId": "8a40-4aaa-c780-9046",
                 "typeName": "Melee Weapons",
@@ -1051,19 +1104,19 @@
           },
           {
             "name": "Absolvor Bolt Pistol",
-            "id": "fad2-1dd5-584d-e9f8",
+            "id": "9202-3878-140e-9374",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "133e-d5ce-1b2a-d5dc", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "8cca-413e-f88b-302c", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "2623-255f-5811-fc81", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "2eba-1e28-6d69-204b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "infoLinks": [{"name": "Close-quarters", "id": "7964-cbbf-87fc-c659", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"}],
+            "infoLinks": [{"name": "Close-quarters", "id": "a7b3-95cb-3fca-0ede", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"}],
             "profiles": [
               {
                 "name": "Absolvor Bolt Pistol",
-                "id": "2cbf-d021-e04e-31e4",
+                "id": "2b84-5a7d-5109-3c48",
                 "hidden": false,
                 "typeId": "f77d-b953-8fa4-b762",
                 "typeName": "Ranged Weapons",
@@ -1083,41 +1136,41 @@
         "selectionEntryGroups": [
           {
             "name": "Crusade",
-            "id": "c31b-a630-6df8-1d06",
+            "id": "6ea5-d33f-129d-d423",
             "hidden": false,
             "sortIndex": 1,
-            "entryLinks": [{"name": "Mighty Champions", "id": "c739-8716-49da-4b58", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
+            "entryLinks": [{"name": "Mighty Champions", "id": "e3a4-1d74-1bca-8cbc", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
           }
         ]
       },
       {
         "name": "Librarian Dreadnought [Legends]",
-        "id": "b6e0-b465-801c-24c8",
+        "id": "72a0-8617-bca5-0840",
         "hidden": false,
         "import": true,
         "type": "model",
         "categoryLinks": [
-          {"name": "Vehicle", "id": "4221-9c49-fd8-4e4a", "primary": true, "targetId": "dbd4-63-af05-998"},
-          {"name": "Walker", "id": "9348-dbef-8405-87fe", "primary": false, "targetId": "6dda-e157-334d-e93a"},
-          {"name": "Psyker", "id": "cba6-cc2f-96de-e394", "primary": false, "targetId": "13bf-2bee-3ae0-b414"},
-          {"name": "Imperium", "id": "fe8f-8e1a-2fcb-9e08", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Librarian Dreadnought", "id": "f52b-af65-23a4-8f93", "primary": false, "targetId": "68e9-6942-27d7-bb11"},
-          {"name": "Faction: Adeptus Astartes", "id": "551a-81e5-11a5-f1d6", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Faction: Blood Angels", "id": "de92-96dd-4cfe-4ea6", "primary": false, "targetId": "62ac-ef42-27b4-ae7"},
-          {"name": "Smoke", "id": "ccd3-ac9f-5e9-4a3d", "primary": false, "targetId": "6df-937-16bc-8c1a"},
-          {"name": "Dreadnought", "id": "89c3-3e67-4111-8fa2", "hidden": false, "primary": false, "targetId": "c97c-376-e2e0-1dd2"}
+          {"name": "Vehicle", "id": "e737-9626-ec5e-62ea", "primary": true, "targetId": "dbd4-63-af05-998"},
+          {"name": "Walker", "id": "31a6-df74-8169-098c", "primary": false, "targetId": "6dda-e157-334d-e93a"},
+          {"name": "Psyker", "id": "b4a7-93a9-f766-6b51", "primary": false, "targetId": "13bf-2bee-3ae0-b414"},
+          {"name": "Imperium", "id": "1946-e2a4-077d-1b32", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Librarian Dreadnought", "id": "d735-6ae4-555b-6664", "primary": false, "targetId": "79f3-3975-9334-abac"},
+          {"name": "Faction: Adeptus Astartes", "id": "e7df-d4f2-f1cb-b495", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Faction: Blood Ravens", "id": "9b3a-f3a7-49c6-4e86", "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "Smoke", "id": "f24e-0c45-d7d1-0d96", "primary": false, "targetId": "6df-937-16bc-8c1a"},
+          {"name": "Dreadnought", "id": "a283-f964-8e86-7ff9", "hidden": false, "primary": false, "targetId": "c97c-376-e2e0-1dd2"}
         ],
         "constraints": [
-          {"id": "54e5-01d4-6abd-3b86", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 3},
-          {"id": "1efa-4784-7515-8c2c", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
-          {"id": "2e5e-9607-5fb3-472c", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
-          {"id": "8b90-34a1-e6d6-ba99", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
+          {"id": "5aed-20ff-692e-366c", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 3},
+          {"id": "2b21-f9cc-33df-d0a5", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
+          {"id": "09a2-8d34-13fb-4a1a", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
+          {"id": "607f-6ef2-dfc6-ea9f", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
         ],
         "costs": [{"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 170}],
         "entryLinks": [
           {
             "name": "Crusade",
-            "id": "1cb6-72d1-8b85-0678",
+            "id": "bde2-3f79-335d-6d0f",
             "hidden": false,
             "import": true,
             "sortIndex": 1,
@@ -1128,13 +1181,13 @@
         "infoLinks": [
           {
             "name": "Deadly Demise",
-            "id": "d7c1-1815-8408-2cab",
+            "id": "be89-1147-04a5-fc9e",
             "hidden": false,
             "targetId": "b68a-5ded-65ac-98c",
             "type": "rule",
             "modifiers": [{"field": "name", "type": "append", "value": 1}]
           },
-          {"name": "Combat Doctrines", "id": "741c-8023-291c-3643", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
+          {"name": "Combat Doctrines", "id": "33ca-45cd-5fd8-9c78", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
         ],
         "modifierGroups": [
           {
@@ -1142,13 +1195,13 @@
             "type": "and",
             "modifiers": [
               {
-                "field": "54e5-01d4-6abd-3b86",
+                "field": "5aed-20ff-692e-366c",
                 "type": "set",
                 "value": 6,
                 "conditions": [{"childId": "1511-18fe-f51e-7b9d", "field": "selections", "includeChildSelections": true, "scope": "self", "shared": true, "type": "atLeast", "value": 1}]
               },
               {
-                "field": "1efa-4784-7515-8c2c",
+                "field": "2b21-f9cc-33df-d0a5",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -1165,7 +1218,7 @@
                 ]
               },
               {
-                "field": "2e5e-9607-5fb3-472c",
+                "field": "09a2-8d34-13fb-4a1a",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -1262,7 +1315,7 @@
             "value": true,
             "conditions": [
               {
-                "id": "035d-0ce5-d412-7901",
+                "id": "2769-c225-44dd-bfdf",
                 "childId": "9ed-cbf4-bfe5-90bf",
                 "field": "selections",
                 "includeChildForces": true,
@@ -1275,7 +1328,7 @@
             ]
           },
           {
-            "field": "8b90-34a1-e6d6-ba99",
+            "field": "607f-6ef2-dfc6-ea9f",
             "type": "set",
             "value": 2,
             "conditions": [
@@ -1295,7 +1348,7 @@
         "profiles": [
           {
             "name": "Librarian Dreadnought",
-            "id": "a67b-5be1-718e-6fc3",
+            "id": "0e58-2971-e051-f44a",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -1311,29 +1364,29 @@
             ]
           },
           {
-            "name": "Shield of Sanguinius (Aura, Psychic)",
-            "id": "701b-9655-4af1-e452",
+            "name": "Psychic Ward of the Librarius (Aura, Psychic)",
+            "id": "1bba-90ed-9a7b-e993",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks.",
+                "$text": "While a friendly Adeptus Astartes unit is within 6\" of this model, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks.",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
           },
           {
-            "name": "Wings of Sanguinius (Psychic)",
-            "id": "78af-53ce-b84c-2b1e",
+            "name": "Wings of the Raven (Psychic)",
+            "id": "f455-22da-bd7f-ac61",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "Once per turn, at the end of your Movement phase, one Psyker from your army with this ability can use it. If it does, roll one D6: on a 1, that Psyker suffers D3 mortal wounds; on a 2+, select one friendly Adeptus Astartes Infantry unit within 12\" of that Psyker and remove the selected unit from the battlefield, then set it up again anywhere on the battlefield that is more than 9\"\nhorizontally away from all enemy models.",
+                "$text": "Once per turn, at the end of your Movement phase, one Psyker from your army with this ability can use it. If it does, roll one D6: on a 1, that Psyker suffers D3 mortal wounds; on a 2+, select one friendly Adeptus Astartes Infantry unit within 12\" of that Psyker and remove the selected unit from the battlefield, then set it up again anywhere on the battlefield that is more than 9\"\nhorizontally away from all enemy models.",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
@@ -1342,33 +1395,33 @@
         "selectionEntryGroups": [
           {
             "name": "Wargear",
-            "id": "9638-3047-f105-5df9",
+            "id": "7254-1f3a-46f8-2d70",
             "hidden": false,
             "sortIndex": 2,
             "selectionEntries": [
               {
-                "name": "Blood Lance",
-                "id": "4696-c920-6fe4-d64b",
+                "name": "Spear of the Librarius",
+                "id": "62e0-0dc6-90a1-a015",
                 "hidden": false,
                 "import": true,
                 "type": "upgrade",
-                "categoryLinks": [{"name": "Psychic Weapon", "id": "966f-ac5b-50e2-e34f", "hidden": false, "primary": false, "targetId": "4546-4a0c-b3be-e84c"}],
+                "categoryLinks": [{"name": "Psychic Weapon", "id": "cc31-1737-70b9-c8aa", "hidden": false, "primary": false, "targetId": "4546-4a0c-b3be-e84c"}],
                 "constraints": [
-                  {"id": "f5f5-1408-961c-55aa", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "fc85-2218-3f85-ba6b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "f444-abd4-934d-822d", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "bb82-36ff-cdba-2943", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
-                  {"name": "Weapon Modifications", "id": "1f93-28c9-083b-c165", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                  {"name": "Weapon Modifications", "id": "bea8-ece6-4cce-80b2", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                 ],
                 "infoLinks": [
-                  {"name": "Psychic", "id": "c160-37a2-ee3b-ed26", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"},
-                  {"name": "Sustained Hits", "id": "9df7-228e-de08-18b2", "hidden": false, "targetId": "1897-c22c-9597-12b1", "type": "rule"},
-                  {"name": "Hazardous", "id": "e12a-7163-90d0-395", "hidden": false, "targetId": "8367-374c-f87-c627", "type": "rule"}
+                  {"name": "Psychic", "id": "1f6d-fa85-f154-8969", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"},
+                  {"name": "Sustained Hits", "id": "05da-10a7-58ac-4e13", "hidden": false, "targetId": "1897-c22c-9597-12b1", "type": "rule"},
+                  {"name": "Hazardous", "id": "6801-e8bc-1cf7-3889", "hidden": false, "targetId": "8367-374c-f87-c627", "type": "rule"}
                 ],
                 "profiles": [
                   {
-                    "name": "➤ Blood Lance - Focused Witchfire",
-                    "id": "ce86-2fd-47ac-9cd0",
+                    "name": "➤ Spear of the Librarius - Focused Witchfire",
+                    "id": "46dd-7762-c56d-0b85",
                     "hidden": false,
                     "typeId": "f77d-b953-8fa4-b762",
                     "typeName": "Ranged Weapons",
@@ -1383,8 +1436,8 @@
                     ]
                   },
                   {
-                    "name": "➤ Blood Lance - Witchfire",
-                    "id": "5716-d7bc-4013-faa5",
+                    "name": "➤ Spear of the Librarius - Witchfire",
+                    "id": "60d5-a1ca-384b-2ddf",
                     "hidden": false,
                     "typeId": "f77d-b953-8fa4-b762",
                     "typeName": "Ranged Weapons",
@@ -1410,22 +1463,22 @@
                 ]
               },
               {
-                "name": "Furioso Fist",
-                "id": "e26d-6206-fd7a-2bd7",
+                "name": "Librarius Dreadnought Fist",
+                "id": "797a-d2ef-7ed3-b250",
                 "hidden": false,
                 "import": true,
                 "type": "upgrade",
                 "constraints": [
-                  {"id": "6046-49cb-4887-bc07", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "4683-7452-63d6-136d", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "dd8f-06e8-1028-e7ce", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "58b3-1350-1405-a7f3", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
-                  {"name": "Weapon Modifications", "id": "0f9c-9a41-7648-8192", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                  {"name": "Weapon Modifications", "id": "3191-357a-f3e2-0a90", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                 ],
                 "profiles": [
                   {
-                    "name": "Furioso Fist",
-                    "id": "77db-77a8-6dee-8fc9",
+                    "name": "Librarius Dreadnought Fist",
+                    "id": "cba7-3167-5cd8-aef8",
                     "hidden": false,
                     "typeId": "8a40-4aaa-c780-9046",
                     "typeName": "Melee Weapons",
@@ -1442,27 +1495,27 @@
                 ]
               },
               {
-                "name": "Furioso Force Halberd",
-                "id": "80e5-4fdc-eb6f-71a9",
+                "name": "Librarius Force Halberd",
+                "id": "9eba-3fcc-817b-ccad",
                 "hidden": false,
                 "import": true,
                 "type": "upgrade",
-                "categoryLinks": [{"name": "Psychic Weapon", "id": "0496-5d7c-d7d2-f9b4", "hidden": false, "primary": false, "targetId": "4546-4a0c-b3be-e84c"}],
+                "categoryLinks": [{"name": "Psychic Weapon", "id": "533b-673d-d632-7b66", "hidden": false, "primary": false, "targetId": "4546-4a0c-b3be-e84c"}],
                 "constraints": [
-                  {"id": "10d5-6f94-8c23-aaba", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "ae76-6930-944-f30f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "5c9a-10b5-99c4-f7a2", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "5351-b46b-710c-f6f1", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
-                  {"name": "Weapon Modifications", "id": "1760-facc-a263-ee82", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                  {"name": "Weapon Modifications", "id": "ad36-218c-c774-909c", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                 ],
                 "infoLinks": [
-                  {"name": "Extra Attacks", "id": "c72c-93df-9aff-614d", "hidden": false, "targetId": "115b-79dc-f723-d761", "type": "rule"},
-                  {"name": "Psychic", "id": "f00e-7757-a36f-e432", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"}
+                  {"name": "Extra Attacks", "id": "a4d3-1d1e-5ce3-848d", "hidden": false, "targetId": "115b-79dc-f723-d761", "type": "rule"},
+                  {"name": "Psychic", "id": "0357-3ae2-017a-0454", "hidden": false, "targetId": "e9c4-2bb8-12ee-cd1b", "type": "rule"}
                 ],
                 "profiles": [
                   {
-                    "name": "Furioso Force Halberd",
-                    "id": "8e87-15ec-2605-c312",
+                    "name": "Librarius Force Halberd",
+                    "id": "ef5e-40ed-56c8-5e82",
                     "hidden": false,
                     "typeId": "8a40-4aaa-c780-9046",
                     "typeName": "Melee Weapons",
@@ -1482,45 +1535,45 @@
             "selectionEntryGroups": [
               {
                 "name": "Weapon Option",
-                "id": "2ec1-8d44-92d3-c316",
-                "defaultSelectionEntryId": "3455-4eaa-3eff-1454",
+                "id": "8ab4-3a4a-ad94-0740",
+                "defaultSelectionEntryId": "be8b-7d44-5f58-8941",
                 "hidden": false,
                 "constraints": [
-                  {"id": "90ba-7a6f-e98b-a3fa", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "9ddd-eaa9-84de-6583", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "77ce-c1c5-356b-0bef", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "a9f2-4425-7fea-bc65", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
                   {
                     "name": "Storm bolter",
-                    "id": "3455-4eaa-3eff-1454",
+                    "id": "be8b-7d44-5f58-8941",
                     "hidden": false,
                     "import": true,
                     "targetId": "eb61-5cd0-5242-74cc",
                     "type": "selectionEntry",
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "d3eb-16c6-9c0f-1efb", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                      {"name": "Weapon Modifications", "id": "cdf7-dcb7-6d77-4b89", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                     ]
                   },
                   {
                     "name": "Heavy Flamer",
-                    "id": "81cf-c027-e705-ac7c",
+                    "id": "5683-5114-dc7c-68d9",
                     "hidden": false,
                     "import": true,
                     "targetId": "b3e6-f7a7-8357-2055",
                     "type": "selectionEntry",
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "b2b9-bab2-afd1-b605", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                      {"name": "Weapon Modifications", "id": "575a-0505-07ce-68d5", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                     ]
                   },
                   {
                     "name": "Meltagun",
-                    "id": "f669-1322-c0e8-9c3d",
+                    "id": "1003-68d6-6369-f7bd",
                     "hidden": false,
                     "import": true,
                     "targetId": "958-24c7-8843-459f",
                     "type": "selectionEntry",
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "e058-7e20-5df8-9ea3", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                      {"name": "Weapon Modifications", "id": "2764-b3a8-48b0-faca", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                     ]
                   }
                 ]
@@ -1531,28 +1584,28 @@
       },
       {
         "name": "Relic Guard",
-        "id": "25e4-ead-faac-2531",
+        "id": "77b9-56d9-7e54-043e",
         "hidden": false,
         "import": true,
         "type": "unit",
         "categoryLinks": [
-          {"name": "Infantry", "id": "b929-ac1e-a8dc-dd66", "primary": true, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Fly", "id": "f435-d9a6-3cf-2e16", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Imperium", "id": "e653-4b48-7007-b3c4", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Faction: Adeptus Astartes", "id": "9ad7-b573-d4c9-d207", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Jump Pack", "id": "f28d-9816-dbcc-1b5b", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "Explosives", "id": "1881-886c-7730-5973", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
-          {"name": "Tacticus", "id": "4fac-52b3-e80e-7d47", "hidden": false, "primary": false, "targetId": "5179-8ede-45e3-49a2"},
-          {"name": "Faction: Blood Ravens", "id": "c69e-6ed5-983e-419e", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"},
-          {"name": "Sanguinary Guard", "id": "868e-bb6c-90b9-e665", "hidden": false, "primary": false, "targetId": "d30a-a7c5-389a-e78"}
+          {"name": "Infantry", "id": "76f5-56b2-3c2a-6a39", "primary": true, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Fly", "id": "4d57-7d80-cf62-ef7d", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Imperium", "id": "1971-07e9-5130-494e", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Faction: Adeptus Astartes", "id": "c5a9-5b9b-3097-ff21", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Jump Pack", "id": "b1a3-a377-9feb-ea10", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "Explosives", "id": "0c60-1ee9-7132-f781", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
+          {"name": "Tacticus", "id": "c357-68fd-0989-2482", "hidden": false, "primary": false, "targetId": "5179-8ede-45e3-49a2"},
+          {"name": "Faction: Blood Ravens", "id": "5897-356d-1c62-bea3", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "Sanguinary Guard", "id": "dffe-055f-119f-d0e8", "hidden": false, "primary": false, "targetId": "d30a-a7c5-389a-e78"}
         ],
         "constraints": [
-          {"id": "e001-678c-49ed-a79c", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 3},
-          {"id": "889c-c373-6af9-e116", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
-          {"id": "fde9-e81f-43e6-eb88", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
-          {"id": "2227-ead8-0a7e-1527", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3},
+          {"id": "f7ed-094b-f25e-5e17", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 3},
+          {"id": "4228-73ed-9bbf-7608", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
+          {"id": "5df3-b658-e029-2dfa", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
+          {"id": "d1ea-270f-29af-43f1", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3},
           {
-            "id": "6204-c6c3-6ca2-aee8",
+            "id": "28d0-e76a-7009-0a8d",
             "childId": "any",
             "field": "f759-1bc4-cb3a-f0d2",
             "includeChildForces": false,
@@ -1565,7 +1618,7 @@
             "value": 1
           },
           {
-            "id": "f3d0-e89e-09c2-6586",
+            "id": "32ab-52b1-18ce-5a97",
             "childId": "1556-9b56-fba6-4370",
             "childName": "Leader",
             "field": "associations",
@@ -1575,7 +1628,7 @@
             "value": 1
           },
           {
-            "id": "089b-cfe6-83ac-f4d3",
+            "id": "60c0-c040-8838-23d2",
             "childId": "7dcd-7f61-69a7-0294",
             "childName": "Support",
             "field": "associations",
@@ -1600,7 +1653,7 @@
         "entryLinks": [
           {
             "name": "Crusade",
-            "id": "fb5f-6e35-21a7-9c64",
+            "id": "f41d-1105-3b14-2750",
             "hidden": false,
             "import": true,
             "sortIndex": 1,
@@ -1609,7 +1662,7 @@
           },
           {
             "name": "Enhancements",
-            "id": "ec02-7893-52a8-e59d",
+            "id": "7f19-9cd3-2bb1-d050",
             "hidden": false,
             "import": true,
             "sortIndex": 2,
@@ -1618,8 +1671,8 @@
           }
         ],
         "infoLinks": [
-          {"name": "Deep Strike", "id": "446-c76b-af18-5955", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "d9bb-e847-88d0-2cc3", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
+          {"name": "Deep Strike", "id": "f3cd-3737-ce9e-af3b", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "08c3-fcd3-0ba7-77db", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
         ],
         "modifierGroups": [
           {
@@ -1627,13 +1680,13 @@
             "type": "and",
             "modifiers": [
               {
-                "field": "e001-678c-49ed-a79c",
+                "field": "f7ed-094b-f25e-5e17",
                 "type": "set",
                 "value": 6,
                 "conditions": [{"childId": "1511-18fe-f51e-7b9d", "field": "selections", "includeChildSelections": true, "scope": "self", "shared": true, "type": "atLeast", "value": 1}]
               },
               {
-                "field": "889c-c373-6af9-e116",
+                "field": "4228-73ed-9bbf-7608",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -1650,7 +1703,7 @@
                 ]
               },
               {
-                "field": "fde9-e81f-43e6-eb88",
+                "field": "5df3-b658-e029-2dfa",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -1747,11 +1800,11 @@
             "value": 275,
             "conditions": [
               {
-                "id": "91f1-bb67-e1ee-4bad",
-                "childId": "b36d-e83-6a91-e2b4",
+                "id": "1bd7-5d78-310c-d70e",
+                "childId": "3c47-6466-63ef-0847",
                 "field": "selections",
                 "includeChildSelections": true,
-                "scope": "25e4-ead-faac-2531",
+                "scope": "77b9-56d9-7e54-043e",
                 "shared": true,
                 "type": "atLeast",
                 "value": 4
@@ -1759,7 +1812,7 @@
             ]
           },
           {
-            "field": "2227-ead8-0a7e-1527",
+            "field": "d1ea-270f-29af-43f1",
             "type": "set",
             "value": 2,
             "conditions": [
@@ -1793,7 +1846,7 @@
                     "value": 2,
                     "conditions": [
                       {"childId": "any", "field": "selections", "scope": "self", "shared": true, "type": "before", "value": 1},
-                      {"childId": "25e4-ead-faac-2531", "childName": "Sanguinary Guard", "field": "selections", "scope": "self", "shared": true, "type": "instanceOf", "value": 1}
+                      {"childId": "77b9-56d9-7e54-043e", "childName": "Relic Guard", "field": "selections", "scope": "self", "shared": true, "type": "instanceOf", "value": 1}
                     ]
                   }
                 ]
@@ -1803,16 +1856,16 @@
         ],
         "profiles": [
           {
-            "name": "Angelic Visage",
-            "id": "5a4f-9341-88c9-9038",
+            "name": "Artificer Panoply",
+            "id": "4ffc-a2a5-29c8-fc6b",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [{"name": "Description", "$text": "Melee attacks that target this unit have -1 to hit rolls.", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
-            "name": "Heirs of Azkaellon",
-            "id": "48cf-9858-89c4-f598",
+            "name": "Keepers of the Reliquary",
+            "id": "82c9-ee73-575f-d509",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -1821,26 +1874,26 @@
         ],
         "selectionEntryGroups": [
           {
-            "name": "Sanguinary Guard",
-            "id": "b36d-e83-6a91-e2b4",
-            "defaultSelectionEntryId": "8e33-50a5-d053-ee15",
+            "name": "Relic Guard",
+            "id": "3c47-6466-63ef-0847",
+            "defaultSelectionEntryId": "b74a-9537-8ab3-8c17",
             "hidden": false,
             "sortIndex": 3,
             "constraints": [
-              {"id": "a433-90e3-b0e1-725f", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 3},
-              {"id": "d250-ae8d-af79-4707", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 6}
+              {"id": "8859-3c92-7f82-332d", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 3},
+              {"id": "e17d-21de-d164-4da9", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 6}
             ],
             "selectionEntries": [
               {
-                "name": "Sanguinary Guard w/ Angelus Boltgun",
-                "id": "8e33-50a5-d053-ee15",
+                "name": "Relic Guard w/ Artificer Storm Bolter",
+                "id": "b74a-9537-8ab3-8c17",
                 "hidden": false,
                 "import": true,
                 "type": "model",
                 "constraints": [
-                  {"id": "c829-d98f-6cf8-8fc7", "automatic": true, "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 6},
+                  {"id": "e832-d800-7529-ff6b", "automatic": true, "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 6},
                   {
-                    "id": "1441-acd1-c899-5aec",
+                    "id": "2643-e445-f3b0-185c",
                     "automatic": true,
                     "field": "selections",
                     "includeChildSelections": false,
@@ -1851,10 +1904,10 @@
                   }
                 ],
                 "entryLinks": [
-                  {"name": "Encarmine Weapon", "id": "f692-a013-963c-f5d8", "hidden": false, "targetId": "ea88-e1ef-7a7f-533d", "type": "selectionEntry"},
+                  {"name": "Relic Blade of the Ravens", "id": "06b2-e833-3042-e6da", "hidden": false, "targetId": "6200-cecb-adfc-7b35", "type": "selectionEntry"},
                   {
                     "name": "Terminator Honours upgrade",
-                    "id": "d232-3cbe-01fa-7a47",
+                    "id": "7fba-2d8b-c06c-b40e",
                     "hidden": false,
                     "import": true,
                     "targetId": "e7f9-66f5-9b9e-c587",
@@ -1863,13 +1916,13 @@
                 ],
                 "modifiers": [
                   {
-                    "field": "c829-d98f-6cf8-8fc7",
+                    "field": "e832-d800-7529-ff6b",
                     "type": "decrement",
                     "value": 1,
                     "repeats": [
                       {
-                        "childId": "aebc-c95f-80e4-9aed",
-                        "childName": "Sanguinary Guard w/ Inferno Pistol",
+                        "childId": "ae70-687a-94a2-0191",
+                        "childName": "Relic Guard w/ Inferno Pistol",
                         "field": "selections",
                         "repeats": 1,
                         "roundUp": false,
@@ -1880,13 +1933,13 @@
                     ]
                   },
                   {
-                    "field": "1441-acd1-c899-5aec",
+                    "field": "2643-e445-f3b0-185c",
                     "type": "decrement",
                     "value": 1,
                     "conditions": [
                       {
-                        "childId": "aebc-c95f-80e4-9aed",
-                        "childName": "Sanguinary Guard w/ Inferno Pistol",
+                        "childId": "ae70-687a-94a2-0191",
+                        "childName": "Relic Guard w/ Inferno Pistol",
                         "field": "selections",
                         "scope": "unit",
                         "shared": true,
@@ -1898,8 +1951,8 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Sanguinary Guard",
-                    "id": "d95e-595c-4f55-49ce",
+                    "name": "Relic Guard",
+                    "id": "df65-0ce1-c16d-b1d8",
                     "hidden": false,
                     "typeId": "c547-1836-d8a-ff4f",
                     "typeName": "Unit",
@@ -1917,26 +1970,26 @@
                 ],
                 "selectionEntries": [
                   {
-                    "name": "Angelus Boltgun",
-                    "id": "f64-f4db-cee7-c077",
+                    "name": "Artificer Storm Bolter",
+                    "id": "8fb2-5f96-4162-24dc",
                     "hidden": false,
                     "import": true,
                     "type": "upgrade",
                     "constraints": [
-                      {"id": "0191-6685-36d8-83cd-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-                      {"id": "0191-6685-36d8-83cd-max", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+                      {"id": "4223-aa58-942d-0485", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+                      {"id": "17d4-392d-0cfb-c487", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
                     ],
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "d74b-acc3-0e2d-bfec", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                      {"name": "Weapon Modifications", "id": "60e6-549b-bfaf-6afa", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                     ],
                     "infoLinks": [
-                      {"name": "Close-quarters", "id": "7d61-e571-3ea4-9365", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
-                      {"name": "Assault", "id": "257c-4d5a-69dc-56dc", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"}
+                      {"name": "Close-quarters", "id": "13cb-da78-219e-9941", "hidden": false, "targetId": "5238-5ad4-52f7-6eb4", "type": "rule"},
+                      {"name": "Assault", "id": "b0e5-9b6a-387d-4f51", "hidden": false, "targetId": "fc8a-8c24-bae9-cc1c", "type": "rule"}
                     ],
                     "profiles": [
                       {
-                        "name": "Angelus Boltgun",
-                        "id": "13c6-39cb-bc57-3ee0",
+                        "name": "Artificer Storm Bolter",
+                        "id": "1245-545d-26b5-3ce9",
                         "hidden": false,
                         "typeId": "f77d-b953-8fa4-b762",
                         "typeName": "Ranged Weapons",
@@ -1955,16 +2008,16 @@
                 ]
               },
               {
-                "name": "Sanguinary Guard w/ Inferno Pistol",
-                "id": "aebc-c95f-80e4-9aed",
+                "name": "Relic Guard w/ Inferno Pistol",
+                "id": "ae70-687a-94a2-0191",
                 "hidden": false,
                 "import": true,
                 "type": "model",
-                "constraints": [{"id": "cbe9-6e6f-e375-a9f6", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 2}],
+                "constraints": [{"id": "ebf7-1040-7025-43a2", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 2}],
                 "entryLinks": [
                   {
                     "name": "Terminator Honours upgrade",
-                    "id": "254b-14ac-e282-8a24",
+                    "id": "fac5-2630-3ae4-21b6",
                     "hidden": false,
                     "import": true,
                     "targetId": "e7f9-66f5-9b9e-c587",
@@ -1972,21 +2025,21 @@
                   },
                   {
                     "name": "Inferno pistol",
-                    "id": "52e8-531d-1739-b5b5",
+                    "id": "f8a7-b023-25ef-3a74",
                     "hidden": false,
                     "import": true,
                     "targetId": "7628-8029-9230-b60f",
                     "type": "selectionEntry",
                     "constraints": [
-                      {"id": "0372-ea72-f874-67fe", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 2},
-                      {"id": "a50a-e41a-1d0e-28ff-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-                      {"id": "a50a-e41a-1d0e-28ff-max", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+                      {"id": "8e27-82b1-a8c0-424f", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 2},
+                      {"id": "a1d6-f570-2342-f0c2", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+                      {"id": "6983-c4fa-b625-efb3", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
                     ],
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "905f-0eb3-d972-6216", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+                      {"name": "Weapon Modifications", "id": "7414-38c2-4ee2-0264", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
                     ]
                   },
-                  {"name": "Encarmine Weapon", "id": "32da-239a-5374-e95d", "hidden": false, "import": true, "targetId": "ea88-e1ef-7a7f-533d", "type": "selectionEntry"}
+                  {"name": "Relic Blade of the Ravens", "id": "2a39-2ce6-95c0-4087", "hidden": false, "import": true, "targetId": "6200-cecb-adfc-7b35", "type": "selectionEntry"}
                 ],
                 "modifiers": [
                   {
@@ -2008,8 +2061,8 @@
                             "value": 6
                           },
                           {
-                            "childId": "aebc-c95f-80e4-9aed",
-                            "childName": "Sanguinary Guard w/ Inferno Pistol",
+                            "childId": "ae70-687a-94a2-0191",
+                            "childName": "Relic Guard w/ Inferno Pistol",
                             "field": "selections",
                             "includeChildSelections": true,
                             "scope": "unit",
@@ -2024,8 +2077,8 @@
                 ],
                 "profiles": [
                   {
-                    "name": "Sanguinary Guard",
-                    "id": "016b-c63a-eeaa-238f",
+                    "name": "Relic Guard",
+                    "id": "18aa-09c1-cc6a-0a14",
                     "hidden": false,
                     "typeId": "c547-1836-d8a-ff4f",
                     "typeName": "Unit",
@@ -2048,14 +2101,14 @@
       },
       {
         "name": "Blood Apothecary",
-        "id": "f80-be5-d17c-db23",
+        "id": "abc4-b21b-2774-f7b9",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Supporting",
-            "id": "29ca-e388-df85-0878",
+            "id": "e8ae-fd4e-4900-3239",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -2155,21 +2208,21 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Character", "id": "1745-3589-5d6b-5454", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "f4c-54f0-e9b9-e40a", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Imperium", "id": "f102-fdf3-83ae-4bca", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Sanguinary Priest", "id": "a064-e396-b8ec-6f5d", "primary": false, "targetId": "561f-8606-9555-b3ba"},
-          {"name": "Faction: Adeptus Astartes", "id": "5914-910-c561-83d4", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Tacticus", "id": "a5ab-e25c-7c42-0f41", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
-          {"name": "Explosives", "id": "bb5a-08fc-a682-fa4a", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
-          {"name": "Support", "id": "eb0e-40e4-c6dc-663c", "hidden": false, "primary": false, "targetId": "7dcd-7f61-69a7-0294"},
-          {"name": "Faction: Blood Ravens", "id": "28bf-50e9-c47e-19f3", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
+          {"name": "Character", "id": "490e-9b6c-eeb1-a343", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "3823-600f-6983-e8ce", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Imperium", "id": "33ae-5b8e-8141-0228", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Sanguinary Priest", "id": "f10e-12ef-3fd5-d819", "primary": false, "targetId": "561f-8606-9555-b3ba"},
+          {"name": "Faction: Adeptus Astartes", "id": "3aea-b877-3dc3-4665", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Tacticus", "id": "2175-ac2a-0788-4469", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
+          {"name": "Explosives", "id": "26da-c64f-68b1-c22b", "hidden": false, "primary": false, "targetId": "e33d-891d-33aa-e9bf"},
+          {"name": "Support", "id": "9117-5071-bc09-435c", "hidden": false, "primary": false, "targetId": "7dcd-7f61-69a7-0294"},
+          {"name": "Faction: Blood Ravens", "id": "133f-aaad-1e45-eac2", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
         ],
         "constraints": [
-          {"id": "ad95-a04c-853b-cb7b", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
-          {"id": "33bf-b1fb-369b-6e44", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
-          {"id": "bf39-4cdb-3e37-dcec", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
-          {"id": "7db3-0d57-30d0-b4bc", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
+          {"id": "4d80-85ad-9b0b-1baf", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
+          {"id": "01ae-cb43-263d-3d40", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
+          {"id": "1a4a-f435-dfee-21d1", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
+          {"id": "9334-47a2-fb51-0431", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
         ],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 60},
@@ -2184,10 +2237,10 @@
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
         "entryLinks": [
-          {"name": "Warlord", "id": "e5b9-ca19-3b83-fc7d", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
+          {"name": "Warlord", "id": "a649-b5f2-2178-da1e", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
           {
             "name": "Enhancements",
-            "id": "71b7-90b2-5181-9115",
+            "id": "14eb-fc1b-1c05-0aff",
             "hidden": false,
             "import": true,
             "sortIndex": 3,
@@ -2196,7 +2249,7 @@
           },
           {
             "name": "Crusade",
-            "id": "2c97-ee87-173b-d3be",
+            "id": "fdd1-13dd-b698-2890",
             "hidden": false,
             "import": true,
             "sortIndex": 1,
@@ -2205,8 +2258,8 @@
           }
         ],
         "infoLinks": [
-          {"name": "Support", "id": "3a4e-3214-5775-830a", "hidden": false, "targetId": "3342-2180-9c5d-925f", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "c4f-5b51-9480-12ee", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
+          {"name": "Support", "id": "107f-520e-481a-8240", "hidden": false, "targetId": "3342-2180-9c5d-925f", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "c53c-3ad3-24a8-293b", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
         ],
         "modifierGroups": [
           {
@@ -2214,7 +2267,7 @@
             "type": "and",
             "modifiers": [
               {
-                "field": "33bf-b1fb-369b-6e44",
+                "field": "01ae-cb43-263d-3d40",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -2231,7 +2284,7 @@
                 ]
               },
               {
-                "field": "bf39-4cdb-3e37-dcec",
+                "field": "1a4a-f435-dfee-21d1",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -2248,7 +2301,7 @@
                 ]
               },
               {
-                "field": "ad95-a04c-853b-cb7b",
+                "field": "4d80-85ad-9b0b-1baf",
                 "type": "increment",
                 "value": 1,
                 "conditions": [{"childId": "2f74-a57c-86a9-d5f4", "field": "selections", "includeChildSelections": true, "scope": "self", "shared": true, "type": "atLeast", "value": 1}]
@@ -2329,7 +2382,7 @@
         ],
         "modifiers": [
           {
-            "field": "7db3-0d57-30d0-b4bc",
+            "field": "9334-47a2-fb51-0431",
             "type": "set",
             "value": 2,
             "conditions": [
@@ -2349,8 +2402,8 @@
         ],
         "profiles": [
           {
-            "name": "Sanguinary Priest",
-            "id": "4aba-1b11-e595-e9c9",
+            "name": "Blood Apothecary",
+            "id": "b00a-9c81-26ac-3f4b",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -2367,15 +2420,15 @@
           },
           {
             "name": "Narthecium",
-            "id": "bb06-73be-d05e-4541",
+            "id": "df17-9afc-ae88-6de9",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [{"name": "Description", "$text": "(Once per turn, per unit) In your Command phase, this unit heals D3+1 wounds.", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
-            "name": "Blood Chalice",
-            "id": "2271-e1ab-2fb9-93c5",
+            "name": "Vitae Chalice",
+            "id": "b932-7cee-e58e-2d6c",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -2383,56 +2436,56 @@
           },
           {
             "name": "Support",
-            "id": "5d3b-5258-5aad-75ca",
+            "id": "9a71-8a6f-f95f-de1a",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "This model can be attached to the following units: \nASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, COMPANY HEROES, DESOLATION SQUAD, HELLBLASTER SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD\n",
+                "$text": "This model can be attached to the following units: \nASSAULT INTERCESSOR SQUAD, BLADEGUARD VETERAN SQUAD, COMPANY HEROES, DESOLATION SQUAD, HELLBLASTER SQUAD, INFERNUS SQUAD, INTERCESSOR SQUAD, STERNGUARD VETERAN SQUAD\n",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
           },
           {
-            "name": "Sanguinary Priest",
-            "id": "4815-cc18-7201-adbe",
+            "name": "Blood Apothecary",
+            "id": "b2d3-ef03-56c2-ddb4",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability", "typeId": "9b8f-694b-e5e-b573"}]
+            "characteristics": [{"name": "Description", "$text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability", "typeId": "9b8f-694b-e5e-b573"}]
           }
         ],
         "selectionEntryGroups": [
           {
             "name": "Wargear",
-            "id": "5822-0202-5c34-4f93",
+            "id": "1153-455b-a8d7-6893",
             "hidden": false,
             "sortIndex": 4,
             "entryLinks": [
               {
                 "name": "Absolvor bolt pistol",
-                "id": "6962-990d-c53c-9af4",
+                "id": "a481-494b-999a-e998",
                 "hidden": false,
                 "import": true,
                 "targetId": "a490-361-c9c4-afeb",
                 "type": "selectionEntry",
                 "constraints": [
-                  {"id": "82b7-8759-4a0a-f7fc", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "3646-cd5a-6620-5ecd", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "d0c2-d2b7-c7b8-8ca5", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "38e1-e286-9d9a-7172", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "selectionEntryGroups": [
                   {
                     "name": "Weapon Upgrades",
-                    "id": "9025-77d6-52f9-04dd",
+                    "id": "e163-82d7-4c7d-1fad",
                     "flatten": true,
                     "hidden": false,
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "fa72-1abd-ea2e-8e6d", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                      {"name": "Weapon Modifications", "id": "7bad-f8b6-92d6-d602", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                       {
                         "name": "Crusade Relic Upgrades",
-                        "id": "4285-793e-acdf-3726",
+                        "id": "0685-99e0-5d10-b18d",
                         "hidden": false,
                         "import": true,
                         "targetId": "b678-4a99-210e-931f",
@@ -2444,26 +2497,26 @@
               },
               {
                 "name": "Astartes Chainsword",
-                "id": "1550-c228-5787-99b1",
+                "id": "e02c-40f0-3a87-d129",
                 "hidden": false,
                 "import": true,
                 "targetId": "36aa-c29e-8f8-c662",
                 "type": "selectionEntry",
                 "constraints": [
-                  {"id": "57ff-38c5-9744-9dba", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "19c1-8c6e-ee45-a81f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "b347-82d0-cadf-56d3", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "9d8b-6cfc-bd41-2cd9", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "selectionEntryGroups": [
                   {
                     "name": "Weapon Upgrades",
-                    "id": "6e3e-638b-5327-1d6d",
+                    "id": "3ee9-d61f-6ba8-3a90",
                     "flatten": true,
                     "hidden": false,
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "c46e-0b24-bad4-5fb5", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                      {"name": "Weapon Modifications", "id": "6d23-136e-76e1-491a", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                       {
                         "name": "Crusade Relic Upgrades",
-                        "id": "6e22-0deb-9688-07ed",
+                        "id": "607b-636c-d313-b054",
                         "hidden": false,
                         "import": true,
                         "targetId": "b678-4a99-210e-931f",
@@ -2478,24 +2531,24 @@
         ]
       },
       {
-        "name": "The Sanguinor",
-        "id": "29f1-bb28-6424-6d14",
+        "name": "The Unknown Exemplar",
+        "id": "deff-7028-6c7d-a44c",
         "hidden": false,
         "import": true,
         "type": "model",
         "categoryLinks": [
-          {"name": "Epic Hero", "id": "9458-848b-3ef4-a0ad", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
-          {"name": "Character", "id": "e186-8dcb-c090-cc21", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "b302-d216-2021-fe23", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Fly", "id": "8d01-bbee-8bc3-9e79", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Imperium", "id": "ec6b-f097-9ac4-8737", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Jump Pack", "id": "768c-5b77-1389-46ce", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "The Sanguinor", "id": "6c75-19dc-6fa0-1737", "primary": false, "targetId": "8f39-9585-fc72-ba71"},
-          {"name": "Faction: Adeptus Astartes", "id": "eac6-850b-d2b2-eb5e", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Faction: Blood Angels", "id": "e25b-8fb1-48d9-8415", "primary": false, "targetId": "62ac-ef42-27b4-ae7"},
-          {"name": "Tacticus", "id": "77a2-e6ed-70d0-9afd", "hidden": false, "primary": false, "targetId": "5179-8ede-45e3-49a2"}
+          {"name": "Epic Hero", "id": "8ddc-eb3b-f7d5-4e46", "primary": true, "targetId": "4f3a-f0f7-6647-348d"},
+          {"name": "Character", "id": "f0ec-386e-b100-817a", "primary": false, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "a4ed-5696-a9dc-d4d7", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Fly", "id": "c4da-e259-06ea-e0ad", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Imperium", "id": "28c7-8117-04ad-e532", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Jump Pack", "id": "52c4-cf3f-1085-cf4d", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "The Unknown Exemplar", "id": "21a9-c7d0-a8cb-0167", "primary": false, "targetId": "78a2-e5c5-77e8-121e"},
+          {"name": "Faction: Adeptus Astartes", "id": "29b5-c6b9-4f7d-8b34", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Faction: Blood Ravens", "id": "50f7-1b6a-ec4f-98d9", "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "Tacticus", "id": "e77f-203c-5466-b7d4", "hidden": false, "primary": false, "targetId": "5179-8ede-45e3-49a2"}
         ],
-        "constraints": [{"id": "f8a8-20a9-9ba4-1851", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
+        "constraints": [{"id": "e11b-a5aa-18b1-ee80", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 120},
           {"name": "Crusade Points", "typeId": "b03b-c239-15a5-da55", "value": 0},
@@ -2508,18 +2561,36 @@
           {"name": "Honour Points", "typeId": "8135-9a2f-6627-09e2", "value": 0},
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
-        "entryLinks": [{"name": "Warlord", "id": "c335-71bb-55b2-31a1", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
+        "entryLinks": [{"name": "Warlord", "id": "d8b4-5071-f74b-97a9", "hidden": false, "import": true, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"}],
         "infoLinks": [
-          {"name": "Lone Operative", "id": "500a-4188-24fe-2fa6", "hidden": false, "targetId": "a8a0-8fe7-898-e0f3", "type": "rule"},
-          {"name": "Deep Strike", "id": "e0f3-23fc-e379-144b", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
-          {"name": "Fights First", "id": "2da8-9c6e-5181-3fbc", "hidden": false, "targetId": "24-c886-e8ba-5a89", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "df39-e8fc-3c61-7a37", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
+          {"name": "Lone Operative", "id": "9b09-954b-48e2-3314", "hidden": false, "targetId": "a8a0-8fe7-898-e0f3", "type": "rule"},
+          {"name": "Deep Strike", "id": "c211-ecd2-3ace-e58c", "hidden": false, "targetId": "7cb5-dd6b-dd87-ad3b", "type": "rule"},
+          {"name": "Fights First", "id": "b723-aa3b-b200-bb30", "hidden": false, "targetId": "24-c886-e8ba-5a89", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "6adc-64db-3a4a-9b10", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
         ],
-        "modifiers": [{"field": "hidden", "type": "set", "value": true}],
+        "modifiers": [
+          {
+            "field": "hidden",
+            "type": "set",
+            "value": true,
+            "conditions": [
+              {
+                "childId": "abac-bcd8-2afd-0b09",
+                "childName": "Imperium - Adeptus Astartes - Blood Ravens",
+                "field": "selections",
+                "includeChildSelections": false,
+                "scope": "primary-catalogue",
+                "shared": true,
+                "type": "notInstanceOf",
+                "value": 1
+              }
+            ]
+          }
+        ],
         "profiles": [
           {
-            "name": "The Sanguinor",
-            "id": "afc7-e00f-adf2-3858",
+            "name": "The Unknown Exemplar",
+            "id": "2083-57b4-d0e7-bb3c",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -2535,23 +2606,23 @@
             ]
           },
           {
-            "name": "Aura of Fervour",
-            "id": "a3b2-4a68-fe8f-f5fa",
+            "name": "Aura of the Unknown Primarch",
+            "id": "2119-d021-df8d-3064",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [{"name": "Description", "$text": "Friendly ADEPTUS ASTARTES units within 12\" of this model can re-roll leadership rolls.", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
-            "name": "Miraculous Savior",
-            "id": "9c8e-d8c0-5604-60f0",
+            "name": "Herald of Knowledge",
+            "id": "2d5a-d7ee-c945-c84d",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
             "characteristics": [
               {
                 "name": "Description",
-                "$text": "(Once per battle, per army) At the end of your opponent's Charge phase (excluding the first battle round), you can select one enemy unit that made a charge move this phase. This unit can make an ingress move and must be set up engaged with that enemy unit. That move does not prevent this unit from being eligible to move",
+                "$text": "(Once per battle, per army) At the end of your opponent's Charge phase (excluding the first battle round), you can select one enemy unit that made a charge move this phase. This unit can make an ingress move and must be set up engaged with that enemy unit. That move does not prevent this unit from being eligible to move",
                 "typeId": "9b8f-694b-e5e-b573"
               }
             ]
@@ -2559,20 +2630,20 @@
         ],
         "selectionEntries": [
           {
-            "name": "Encarmine Broadsword",
-            "id": "b37d-bd5a-db3e-28e7",
+            "name": "Blade of Azariah",
+            "id": "79f9-557e-ba54-8706",
             "hidden": false,
             "import": true,
             "type": "upgrade",
             "constraints": [
-              {"id": "a0b7-f87a-2eb6-8b2b", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-              {"id": "4c00-b6dd-ea07-8c02", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+              {"id": "1365-7730-0cc4-6787", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+              {"id": "ab6c-a268-3328-2247", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
             ],
-            "infoLinks": [{"name": "Devastating Wounds", "id": "b304-9243-5199-f9e4", "hidden": false, "targetId": "be1e-ac8e-1e2c-3528", "type": "rule"}],
+            "infoLinks": [{"name": "Devastating Wounds", "id": "38f4-7b26-c946-6579", "hidden": false, "targetId": "be1e-ac8e-1e2c-3528", "type": "rule"}],
             "profiles": [
               {
-                "name": "Encarmine Broadsword",
-                "id": "65a-5211-e46e-2a8f",
+                "name": "Blade of Azariah",
+                "id": "0449-e1b8-5242-1ded",
                 "hidden": false,
                 "typeId": "8a40-4aaa-c780-9046",
                 "typeName": "Melee Weapons",
@@ -2592,23 +2663,23 @@
         "selectionEntryGroups": [
           {
             "name": "Crusade",
-            "id": "f2ba-0fe7-120b-0d09",
+            "id": "6dbc-1356-34b2-5fba",
             "hidden": false,
             "sortIndex": 1,
-            "entryLinks": [{"name": "Mighty Champions", "id": "3ebd-1233-fbf7-5da6", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
+            "entryLinks": [{"name": "Mighty Champions", "id": "e1ac-c426-b5a0-b484", "hidden": false, "import": true, "targetId": "f842-6e90-bc5a-80f1", "type": "selectionEntryGroup"}]
           }
         ]
       },
       {
         "name": "Blood Apothecary with Jump Pack",
-        "id": "fa13-ba8a-8711-87b6",
+        "id": "1f39-51a2-521f-c4e2",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Supporting",
-            "id": "1981-21b7-351c-871f",
+            "id": "87b6-a1af-5607-2edf",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -2646,28 +2717,28 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Character", "id": "22e-8aa3-e95f-d4c", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Infantry", "id": "25b6-650b-3109-791d", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Grenades", "id": "5716-9fcb-2945-de33", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
-          {"name": "Imperium", "id": "2a1d-80af-c167-5ebe", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Faction: Adeptus Astartes", "id": "13f9-3c4b-b3d-80e9", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Fly", "id": "f2d4-7de3-4f72-b64", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
-          {"name": "Jump Pack", "id": "515f-8220-632f-2dc6", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
-          {"name": "Sanguinary Priest", "id": "596e-95fe-ee66-16a1", "hidden": false, "primary": false, "targetId": "561f-8606-9555-b3ba"},
-          {"name": "Faction: Blood Ravens", "id": "7359-36c2-3d1a-e00b", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
+          {"name": "Character", "id": "f502-6bd0-e57c-f375", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Infantry", "id": "b57c-6e68-fde7-6bcd", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Grenades", "id": "dbfb-c213-451f-67e4", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
+          {"name": "Imperium", "id": "c276-257b-4376-186d", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Faction: Adeptus Astartes", "id": "6506-ee3b-ca8c-1e09", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Fly", "id": "048c-5372-2b93-d0d0", "primary": false, "targetId": "c619-2086-bbcf-69c9"},
+          {"name": "Jump Pack", "id": "a910-4e57-1278-dd83", "primary": false, "targetId": "dda2-bb0a-215e-ad9c"},
+          {"name": "Sanguinary Priest", "id": "de8f-4253-dd1b-9a7e", "hidden": false, "primary": false, "targetId": "561f-8606-9555-b3ba"},
+          {"name": "Faction: Blood Ravens", "id": "3aaa-0b50-c706-599b", "hidden": false, "primary": false, "targetId": "891c-b96c-54d2-b473"}
         ],
         "constraints": [
-          {"id": "ea01-1153-d751-cd9a", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
-          {"id": "f9df-1fce-11a4-6b4c", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
-          {"id": "f1c3-fa83-8c81-16dc", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
-          {"id": "af4d-42aa-5317-8d52", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
+          {"id": "37f0-c2eb-273a-4f0f", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
+          {"id": "7df3-be27-5247-daff", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
+          {"id": "33ef-cc69-801e-44cb", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
+          {"id": "b86f-44e3-c772-fcbd", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
         ],
         "costs": [{"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 100}],
         "entryLinks": [
-          {"name": "Warlord", "id": "943b-e7ef-2223-732", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
+          {"name": "Warlord", "id": "4583-a52b-252f-ade7", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
           {
             "name": "Enhancements",
-            "id": "d708-2a9f-d649-334",
+            "id": "d1dd-c920-f3d2-00c8",
             "hidden": false,
             "import": true,
             "sortIndex": 3,
@@ -2676,7 +2747,7 @@
           },
           {
             "name": "Crusade",
-            "id": "309c-d6e4-f325-6845",
+            "id": "9679-43ef-33c6-99b8",
             "hidden": false,
             "import": true,
             "sortIndex": 1,
@@ -2685,8 +2756,8 @@
           }
         ],
         "infoLinks": [
-          {"name": "Support", "id": "86a9-b727-5c1d-276b", "hidden": false, "targetId": "3342-2180-9c5d-925f", "type": "rule"},
-          {"name": "Combat Doctrines", "id": "87d5-efb8-a92b-da6d", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
+          {"name": "Support", "id": "e778-2f91-2233-82bb", "hidden": false, "targetId": "3342-2180-9c5d-925f", "type": "rule"},
+          {"name": "Combat Doctrines", "id": "8d32-77ae-7576-0157", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"}
         ],
         "modifierGroups": [
           {
@@ -2694,7 +2765,7 @@
             "type": "and",
             "modifiers": [
               {
-                "field": "f9df-1fce-11a4-6b4c",
+                "field": "7df3-be27-5247-daff",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -2711,7 +2782,7 @@
                 ]
               },
               {
-                "field": "f1c3-fa83-8c81-16dc",
+                "field": "33ef-cc69-801e-44cb",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -2728,7 +2799,7 @@
                 ]
               },
               {
-                "field": "ea01-1153-d751-cd9a",
+                "field": "37f0-c2eb-273a-4f0f",
                 "type": "increment",
                 "value": 1,
                 "conditions": [{"childId": "2f74-a57c-86a9-d5f4", "field": "selections", "includeChildSelections": true, "scope": "self", "shared": true, "type": "atLeast", "value": 1}]
@@ -2822,7 +2893,7 @@
             "value": true,
             "conditions": [
               {
-                "id": "fab4-9f56-3f0e-4506",
+                "id": "0057-d636-d612-298f",
                 "childId": "9ed-cbf4-bfe5-90bf",
                 "field": "selections",
                 "includeChildForces": true,
@@ -2835,7 +2906,7 @@
             ]
           },
           {
-            "field": "af4d-42aa-5317-8d52",
+            "field": "b86f-44e3-c772-fcbd",
             "type": "set",
             "value": 2,
             "conditions": [
@@ -2854,8 +2925,8 @@
         ],
         "profiles": [
           {
-            "name": "Sanguinary Priest with Jump Pack",
-            "id": "8edb-5cef-5b8b-6089",
+            "name": "Blood Apothecary with Jump Pack",
+            "id": "b409-6486-b1b0-d123",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -2871,16 +2942,16 @@
             ]
           },
           {
-            "name": "Sanguinary Priest",
-            "id": "a752-2aba-3ea3-4da8",
+            "name": "Blood Apothecary",
+            "id": "209a-edfb-0c2e-fba3",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
-            "characteristics": [{"name": "Description", "$text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability", "typeId": "9b8f-694b-e5e-b573"}]
+            "characteristics": [{"name": "Description", "$text": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability", "typeId": "9b8f-694b-e5e-b573"}]
           },
           {
             "name": "Support",
-            "id": "c994-11e8-ea71-2324",
+            "id": "9de3-6906-a609-26e6",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -2893,8 +2964,8 @@
             ]
           },
           {
-            "name": "Blood Chalice",
-            "id": "d7d4-9039-3758-23e5",
+            "name": "Vitae Chalice",
+            "id": "5120-2a4d-5042-a4b2",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -2902,7 +2973,7 @@
           },
           {
             "name": "Narthecium",
-            "id": "de00-bc44-8713-1aa8",
+            "id": "c4d9-dde4-4daa-36f3",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -2912,32 +2983,32 @@
         "selectionEntryGroups": [
           {
             "name": "Wargear",
-            "id": "8469-1244-dd3b-f2c7",
+            "id": "4735-3b07-62c6-03db",
             "hidden": false,
             "sortIndex": 4,
             "entryLinks": [
               {
                 "name": "Bolt pistol",
-                "id": "ddc0-a842-9cb0-ed7c",
+                "id": "c02d-77e4-ca0a-bfdc",
                 "hidden": false,
                 "import": true,
                 "targetId": "b273-b85e-4018-a0cd",
                 "type": "selectionEntry",
                 "constraints": [
-                  {"id": "fc6c-2d06-860c-d221", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "c89b-9e01-bb89-665f", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "722e-f9cd-1a4d-8917", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "5fd3-e7ba-7b27-43ed", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "selectionEntryGroups": [
                   {
                     "name": "Weapon Upgrades",
-                    "id": "6dc1-94be-60a8-ddf3",
+                    "id": "814f-6a2d-c909-d1e7",
                     "flatten": true,
                     "hidden": false,
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "5ff5-1eb5-763d-c0c2", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                      {"name": "Weapon Modifications", "id": "e48b-ae85-c9c0-59e5", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                       {
                         "name": "Crusade Relic Upgrades",
-                        "id": "415d-e159-52bc-de19",
+                        "id": "f127-0dcd-c6d6-199e",
                         "hidden": false,
                         "import": true,
                         "targetId": "b678-4a99-210e-931f",
@@ -2951,19 +3022,19 @@
             "selectionEntries": [
               {
                 "name": "Astartes Chainsword",
-                "id": "9302-dfb0-4440-6401",
+                "id": "0add-8526-777e-3c24",
                 "hidden": false,
                 "import": true,
                 "type": "upgrade",
-                "categoryLinks": [{"name": "Melee Weapon", "id": "9281-00e4-135f-bc45", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}],
+                "categoryLinks": [{"name": "Melee Weapon", "id": "1ff4-d0b7-477a-c5da", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}],
                 "constraints": [
-                  {"id": "4340-102b-bb2c-23b6", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "9685-da70-995a-1f4b", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "61cd-cd3a-a339-eba6", "field": "selections", "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "af4f-a813-aa53-fd76", "field": "selections", "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "profiles": [
                   {
                     "name": "Astartes Chainsword",
-                    "id": "30c8-dbcd-c7c7-d911",
+                    "id": "cc9b-a94a-81ff-345b",
                     "hidden": false,
                     "typeId": "8a40-4aaa-c780-9046",
                     "typeName": "Melee Weapons",
@@ -2981,14 +3052,14 @@
                 "selectionEntryGroups": [
                   {
                     "name": "Weapon Upgrades",
-                    "id": "0572-6adf-141e-53f0",
+                    "id": "5a7b-279e-cca5-f56f",
                     "flatten": true,
                     "hidden": false,
                     "entryLinks": [
-                      {"name": "Weapon Modifications", "id": "21ac-69c3-0466-a330", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                      {"name": "Weapon Modifications", "id": "239b-9f62-16be-c5f9", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                       {
                         "name": "Crusade Relic Upgrades",
-                        "id": "4188-48bd-7668-4dc6",
+                        "id": "5be5-712b-40f4-ca4c",
                         "hidden": false,
                         "import": true,
                         "targetId": "b678-4a99-210e-931f",
@@ -3003,15 +3074,15 @@
         ]
       },
       {
-        "name": "Blood Angels Captain",
-        "id": "829b-da42-2d62-6daf",
+        "name": "Blood Ravens Captain",
+        "id": "786e-816c-ec7a-fe96",
         "hidden": false,
         "import": true,
         "type": "model",
         "associations": [
           {
             "name": "Leading",
-            "id": "a30e-4db4-d95f-7ee7",
+            "id": "976d-4ae4-f250-4600",
             "action": "group",
             "childId": "unit",
             "childName": "unit",
@@ -3051,21 +3122,21 @@
           }
         ],
         "categoryLinks": [
-          {"name": "Infantry", "id": "e7e3-3a3f-3162-3112", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
-          {"name": "Character", "id": "9349-1078-0ef5-e100", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
-          {"name": "Grenades", "id": "2d53-4ea3-41cc-31b8", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
-          {"name": "Imperium", "id": "b384-f04e-82f9-1a29", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
-          {"name": "Captain", "id": "ecfa-ade5-383d-2318", "primary": false, "targetId": "2d7f-1892-2fd0-e29c"},
-          {"name": "Faction: Adeptus Astartes", "id": "5345-68be-18bd-ab25", "primary": false, "targetId": "6e7-40c-58d9-e402"},
-          {"name": "Faction: Blood Angels", "id": "fe57-cc4e-a7c5-60fe", "primary": false, "targetId": "62ac-ef42-27b4-ae7"},
-          {"name": "Tacticus", "id": "c103-7d78-fdc4-8a58", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
-          {"name": "Leader", "id": "c74e-5aad-50e3-1933", "primary": false, "targetId": "1556-9b56-fba6-4370"}
+          {"name": "Infantry", "id": "ea35-c465-a301-ca88", "primary": false, "targetId": "cf47-a0d7-7207-29dc"},
+          {"name": "Character", "id": "b7eb-50ec-2275-2d53", "primary": true, "targetId": "9cfd-1c32-585f-7d5c"},
+          {"name": "Grenades", "id": "ea38-e97c-92e2-5457", "primary": false, "targetId": "5a61-81ac-eb7c-a87e"},
+          {"name": "Imperium", "id": "7ce7-6ca9-ab34-f64e", "primary": false, "targetId": "aff3-d6a3-2a95-9dc"},
+          {"name": "Captain", "id": "c047-fa55-7af4-0b1b", "primary": false, "targetId": "2d7f-1892-2fd0-e29c"},
+          {"name": "Faction: Adeptus Astartes", "id": "95fc-1131-e878-5a2f", "primary": false, "targetId": "6e7-40c-58d9-e402"},
+          {"name": "Faction: Blood Ravens", "id": "3a85-760c-e951-4a87", "primary": false, "targetId": "891c-b96c-54d2-b473"},
+          {"name": "Tacticus", "id": "3199-0144-c789-8223", "primary": false, "targetId": "5179-8ede-45e3-49a2"},
+          {"name": "Leader", "id": "e58e-ce1c-4b38-98be", "primary": false, "targetId": "1556-9b56-fba6-4370"}
         ],
         "constraints": [
-          {"id": "f624-815a-bca5-137a", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
-          {"id": "2608-13ef-d8cc-fa64", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
-          {"id": "9d3f-7966-b72d-9b89", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
-          {"id": "5d9c-4dbd-e79e-9cc9", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
+          {"id": "e2b6-440e-ddbb-84f9", "field": "75bb-ded1-c86d-bdf0", "includeChildSelections": false, "scope": "self", "shared": true, "type": "max", "value": 6},
+          {"id": "a651-d2a4-2e93-de47", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "max", "value": 0},
+          {"id": "2968-ae43-178e-02e6", "field": "716d-91b7-d55a-1022", "includeChildSelections": true, "scope": "self", "shared": true, "type": "min", "value": 0},
+          {"id": "2997-fdef-9ad0-6407", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "max", "value": 3}
         ],
         "costs": [
           {"name": "pts", "typeId": "51b2-306e-1021-d207", "value": 90},
@@ -3080,10 +3151,10 @@
           {"name": "Relic Fragments", "typeId": "0ece-6541-4662-ece2", "value": 0}
         ],
         "entryLinks": [
-          {"name": "Warlord", "id": "9276-3032-f308-c509", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
+          {"name": "Warlord", "id": "8ce0-8ebc-14c5-ec8f", "hidden": false, "import": true, "sortIndex": 2, "targetId": "caa-f869-3cbd-b48e", "type": "selectionEntry"},
           {
             "name": "Enhancements",
-            "id": "1b90-5986-ff96-ca68",
+            "id": "7bbb-be24-c337-d8ce",
             "hidden": false,
             "import": true,
             "sortIndex": 3,
@@ -3092,7 +3163,7 @@
           },
           {
             "name": "Crusade",
-            "id": "d48a-95de-2770-cb3d",
+            "id": "b5f2-58ea-00d3-e499",
             "hidden": false,
             "import": true,
             "sortIndex": 1,
@@ -3101,11 +3172,11 @@
           }
         ],
         "infoLinks": [
-          {"name": "Strategic Acumen", "id": "3bd4-65eb-4488-6318", "hidden": false, "targetId": "18c3-fd51-f46f-4753", "type": "profile"},
-          {"name": "Finest Hour", "id": "d2dd-00bd-2593-14d1", "hidden": false, "targetId": "d287-9e9b-81c7-eef8", "type": "profile"},
-          {"name": "Combat Doctrines", "id": "5347-1f36-4ca8-529a", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
-          {"name": "Leader", "id": "92c7-5369-1aab-afcf", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
-          {"name": "Transhuman Strategist", "id": "5469-fbf3-f846-cf58", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
+          {"name": "Strategic Acumen", "id": "1382-8215-4dcd-4103", "hidden": false, "targetId": "18c3-fd51-f46f-4753", "type": "profile"},
+          {"name": "Finest Hour", "id": "a376-8669-c219-1a6f", "hidden": false, "targetId": "d287-9e9b-81c7-eef8", "type": "profile"},
+          {"name": "Combat Doctrines", "id": "c806-d495-1820-395c", "hidden": false, "targetId": "3b76-4053-ece9-6e7d", "type": "rule"},
+          {"name": "Leader", "id": "fe7d-9bb2-75c9-6716", "hidden": false, "targetId": "b4dd-3e1f-41cb-218f", "type": "rule"},
+          {"name": "Transhuman Strategist", "id": "9fb0-b512-a5e2-a9ca", "hidden": false, "targetId": "c6cc-c38c-dfe6-dbb8", "type": "rule"}
         ],
         "modifierGroups": [
           {
@@ -3113,7 +3184,7 @@
             "type": "and",
             "modifiers": [
               {
-                "field": "2608-13ef-d8cc-fa64",
+                "field": "a651-d2a4-2e93-de47",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -3130,7 +3201,7 @@
                 ]
               },
               {
-                "field": "9d3f-7966-b72d-9b89",
+                "field": "2968-ae43-178e-02e6",
                 "type": "increment",
                 "value": 2,
                 "repeats": [
@@ -3147,7 +3218,7 @@
                 ]
               },
               {
-                "field": "f624-815a-bca5-137a",
+                "field": "e2b6-440e-ddbb-84f9",
                 "type": "increment",
                 "value": 1,
                 "conditions": [{"childId": "2f74-a57c-86a9-d5f4", "field": "selections", "includeChildSelections": true, "scope": "self", "shared": true, "type": "atLeast", "value": 1}]
@@ -3228,7 +3299,7 @@
         ],
         "modifiers": [
           {
-            "field": "5d9c-4dbd-e79e-9cc9",
+            "field": "2997-fdef-9ad0-6407",
             "type": "set",
             "value": 2,
             "conditions": [
@@ -3247,8 +3318,8 @@
         ],
         "profiles": [
           {
-            "name": "Blood Angels Captain",
-            "id": "2904-9a20-a6eb-83dc",
+            "name": "Blood Ravens Captain",
+            "id": "6d25-ad51-cea6-acb8",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
             "typeName": "Unit",
@@ -3265,7 +3336,7 @@
           },
           {
             "name": "Leader",
-            "id": "a4a8-f68b-1cd2-e2e7",
+            "id": "3148-7879-d86f-2be5",
             "hidden": false,
             "typeId": "9cc3-6d83-4dd3-9b64",
             "typeName": "Abilities",
@@ -3281,23 +3352,23 @@
         "selectionEntryGroups": [
           {
             "name": "Wargear",
-            "id": "8dbe-c69d-aba7-2285",
+            "id": "293b-81d6-7ccb-4073",
             "hidden": false,
             "sortIndex": 4,
             "selectionEntryGroups": [
               {
                 "name": "Melee",
-                "id": "f88f-efee-7bdb-3008",
-                "defaultSelectionEntryId": "8684-4762-7c7a-028e",
+                "id": "9626-9cab-6d36-12bf",
+                "defaultSelectionEntryId": "8203-0722-de21-9ef2",
                 "hidden": false,
                 "constraints": [
-                  {"id": "d670-3264-378d-1ce5", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "3f38-6ad5-1607-fd41", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "0e6e-d31a-a4f2-1bca", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "a29d-3b65-bc1d-0f35", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
                   {
                     "name": "Power fist",
-                    "id": "39a1-6da8-f5b3-864f",
+                    "id": "29fa-4380-38fc-420f",
                     "hidden": false,
                     "import": true,
                     "targetId": "99de-5985-8cb8-f571",
@@ -3305,14 +3376,14 @@
                     "selectionEntryGroups": [
                       {
                         "name": "Weapon Upgrades",
-                        "id": "f0f9-6aea-ed49-80ed",
+                        "id": "8c0f-b9f0-8898-7bb9",
                         "flatten": true,
                         "hidden": false,
                         "entryLinks": [
-                          {"name": "Weapon Modifications", "id": "bdd4-56e5-add8-0dc4", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                          {"name": "Weapon Modifications", "id": "0719-b214-1c7b-d70b", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                           {
                             "name": "Crusade Relic Upgrades",
-                            "id": "2d06-50d9-631a-1343",
+                            "id": "937e-c175-6426-7389",
                             "hidden": false,
                             "import": true,
                             "targetId": "b678-4a99-210e-931f",
@@ -3324,7 +3395,7 @@
                   },
                   {
                     "name": "Relic Weapon",
-                    "id": "26a8-4370-64dc-be4d",
+                    "id": "9530-56db-a1e7-495a",
                     "hidden": false,
                     "import": true,
                     "targetId": "5baf-8a8a-b5ba-1223",
@@ -3332,14 +3403,14 @@
                     "selectionEntryGroups": [
                       {
                         "name": "Weapon Upgrades",
-                        "id": "a6e0-c3bb-15a0-5455",
+                        "id": "15a5-279a-2832-0e86",
                         "flatten": true,
                         "hidden": false,
                         "entryLinks": [
-                          {"name": "Weapon Modifications", "id": "2819-a28d-2624-4cda", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                          {"name": "Weapon Modifications", "id": "ab98-ace4-1b6f-d586", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                           {
                             "name": "Crusade Relic Upgrades",
-                            "id": "5d4d-1d03-1346-cca2",
+                            "id": "8050-c659-aaa8-a304",
                             "hidden": false,
                             "import": true,
                             "targetId": "b678-4a99-210e-931f",
@@ -3353,15 +3424,15 @@
                 "selectionEntries": [
                   {
                     "name": "Master-crafted Chainsword",
-                    "id": "8684-4762-7c7a-028e",
+                    "id": "8203-0722-de21-9ef2",
                     "hidden": false,
                     "import": true,
                     "type": "upgrade",
-                    "categoryLinks": [{"name": "Melee Weapon", "id": "fed0-f39b-4196-1d03", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}],
+                    "categoryLinks": [{"name": "Melee Weapon", "id": "4e89-2ec8-4c54-bd78", "hidden": false, "primary": false, "targetId": "ccdd-3987-11ed-90cd"}],
                     "profiles": [
                       {
                         "name": "Master-crafted Chainsword",
-                        "id": "1077-f195-c047-6ef0",
+                        "id": "80c0-ba8a-171b-4617",
                         "hidden": false,
                         "typeId": "8a40-4aaa-c780-9046",
                         "typeName": "Melee Weapons",
@@ -3379,14 +3450,14 @@
                     "selectionEntryGroups": [
                       {
                         "name": "Weapon Upgrades",
-                        "id": "8b0a-e440-4231-b060",
+                        "id": "1b98-80ff-fecc-d48a",
                         "flatten": true,
                         "hidden": false,
                         "entryLinks": [
-                          {"name": "Weapon Modifications", "id": "61b2-123e-2618-6da8", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                          {"name": "Weapon Modifications", "id": "5da2-97a4-b367-e6cc", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                           {
                             "name": "Crusade Relic Upgrades",
-                            "id": "0e59-5f8f-92da-437d",
+                            "id": "1318-87ac-9f00-ea9b",
                             "hidden": false,
                             "import": true,
                             "targetId": "b678-4a99-210e-931f",
@@ -3400,17 +3471,17 @@
               },
               {
                 "name": "Pistol",
-                "id": "8a1a-5f69-8805-31b0",
-                "defaultSelectionEntryId": "e018-7cd8-9795-65c7",
+                "id": "f9fa-97cf-51b5-9e94",
+                "defaultSelectionEntryId": "a619-c6e8-2144-ac3a",
                 "hidden": false,
                 "constraints": [
-                  {"id": "9398-1bd6-68b8-7163", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-                  {"id": "0022-e3e0-f873-37b3", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+                  {"id": "ac60-fe92-9d0d-5e0e", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+                  {"id": "82fd-3b4c-f212-d9b7", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
                 ],
                 "entryLinks": [
                   {
                     "name": "Inferno pistol",
-                    "id": "65bf-a135-9120-ba15",
+                    "id": "f44c-1155-7d44-05af",
                     "hidden": false,
                     "import": true,
                     "targetId": "7628-8029-9230-b60f",
@@ -3418,14 +3489,14 @@
                     "selectionEntryGroups": [
                       {
                         "name": "Weapon Upgrades",
-                        "id": "8d66-9482-0be1-4629",
+                        "id": "df82-c97f-c338-307b",
                         "flatten": true,
                         "hidden": false,
                         "entryLinks": [
-                          {"name": "Weapon Modifications", "id": "eb6c-7eff-8350-9ad2", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                          {"name": "Weapon Modifications", "id": "da01-1a81-2e3c-3f3e", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                           {
                             "name": "Crusade Relic Upgrades",
-                            "id": "82ec-79a1-d173-40b2",
+                            "id": "3b0a-e170-9788-a9c3",
                             "hidden": false,
                             "import": true,
                             "targetId": "b678-4a99-210e-931f",
@@ -3439,16 +3510,16 @@
                 "selectionEntries": [
                   {
                     "name": "Heavy Bolt Pistol",
-                    "id": "e018-7cd8-9795-65c7",
+                    "id": "a619-c6e8-2144-ac3a",
                     "hidden": false,
                     "import": true,
                     "type": "upgrade",
-                    "categoryLinks": [{"name": "Ranged Weapon", "id": "92ca-f473-cc9c-ce11", "hidden": false, "primary": false, "targetId": "eeda-8544-a2f3-3fab"}],
-                    "infoLinks": [{"name": "Pistol", "id": "6067-d788-2b38-d165", "hidden": false, "targetId": "8bf7-8812-923d-29e4", "type": "rule"}],
+                    "categoryLinks": [{"name": "Ranged Weapon", "id": "d314-760c-d577-71fc", "hidden": false, "primary": false, "targetId": "eeda-8544-a2f3-3fab"}],
+                    "infoLinks": [{"name": "Pistol", "id": "0b2b-affd-41da-57ee", "hidden": false, "targetId": "8bf7-8812-923d-29e4", "type": "rule"}],
                     "profiles": [
                       {
                         "name": "Heavy Bolt Pistol",
-                        "id": "d928-3007-aed9-1b7d",
+                        "id": "f2af-00bf-79bd-385e",
                         "hidden": false,
                         "typeId": "f77d-b953-8fa4-b762",
                         "typeName": "Ranged Weapons",
@@ -3466,14 +3537,14 @@
                     "selectionEntryGroups": [
                       {
                         "name": "Weapon Upgrades",
-                        "id": "b5f6-03b4-66a3-76e0",
+                        "id": "752d-3b8f-df19-1af0",
                         "flatten": true,
                         "hidden": false,
                         "entryLinks": [
-                          {"name": "Weapon Modifications", "id": "49f0-4ac8-235f-110f", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
+                          {"name": "Weapon Modifications", "id": "84a7-23d1-f74c-de77", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"},
                           {
                             "name": "Crusade Relic Upgrades",
-                            "id": "8f40-9c30-33c0-355e",
+                            "id": "6ccc-49b3-9bfe-f20b",
                             "hidden": false,
                             "import": true,
                             "targetId": "b678-4a99-210e-931f",
@@ -3490,23 +3561,23 @@
         ]
       },
       {
-        "name": "Encarmine Weapon",
-        "id": "ea88-e1ef-7a7f-533d",
+        "name": "Relic Blade of the Ravens",
+        "id": "6200-cecb-adfc-7b35",
         "hidden": false,
         "import": true,
         "type": "upgrade",
         "constraints": [
-          {"id": "c505-183c-bd92-afb2-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-          {"id": "c505-183c-bd92-afb2-max", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+          {"id": "24fa-a15c-50eb-4b12", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+          {"id": "e9d1-480c-6d74-ac06", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
         ],
         "entryLinks": [
-          {"name": "Weapon Modifications", "id": "129e-c57d-211a-c6c6", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
+          {"name": "Weapon Modifications", "id": "2daf-c3f8-7144-1722", "hidden": false, "import": true, "targetId": "f9da-852a-d7f0-92e9", "type": "selectionEntryGroup"}
         ],
-        "infoLinks": [{"name": "Lance", "id": "aa2f-ca13-ba4f-f13a", "hidden": false, "targetId": "2ebc-abdf-8129-6c57", "type": "rule"}],
+        "infoLinks": [{"name": "Lance", "id": "d81d-0535-30a6-dbca", "hidden": false, "targetId": "2ebc-abdf-8129-6c57", "type": "rule"}],
         "profiles": [
           {
-            "name": "Encarmine Weapon",
-            "id": "3981-32e4-157b-6ece",
+            "name": "Relic Blade of the Ravens",
+            "id": "3b2f-8d1f-708e-556a",
             "hidden": false,
             "typeId": "8a40-4aaa-c780-9046",
             "typeName": "Melee Weapons",
@@ -3526,42 +3597,42 @@
     "sharedSelectionEntryGroups": [
       {
         "name": "Replace Pistol",
-        "id": "8b60-76dc-a440-ae23",
-        "defaultSelectionEntryId": "7054-eb96-3614-542a",
+        "id": "9982-7250-5c7c-4106",
+        "defaultSelectionEntryId": "328a-9a47-fd58-6bd6",
         "hidden": false,
         "constraints": [
-          {"id": "c664-21c1-db6b-5cbf-min", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
-          {"id": "c664-21c1-db6b-5cbf-max", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
+          {"id": "b945-cb38-5a16-7e78", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "min", "value": 1},
+          {"id": "a4f4-53b8-9190-dedf", "field": "selections", "includeChildSelections": false, "scope": "parent", "shared": true, "type": "max", "value": 1}
         ],
         "entryLinks": [
           {
             "name": "Hand flamer",
-            "id": "8520-b102-fa69-aefb",
+            "id": "8916-5089-7600-f49b",
             "hidden": false,
             "import": true,
             "targetId": "9dc6-6ad8-818e-db2e",
             "type": "selectionEntry",
-            "categoryLinks": [{"name": "Pistol replacement", "id": "1194-ee45-4c41-dc10", "hidden": false, "primary": false, "targetId": "f06c-dfec-c720-57f1"}]
+            "categoryLinks": [{"name": "Pistol replacement", "id": "10c9-235f-6e28-864c", "hidden": false, "primary": false, "targetId": "0e2e-d320-d686-aa68"}]
           },
           {
             "name": "Inferno Pistol",
-            "id": "2ba5-9580-1492-bdde",
+            "id": "4228-52dd-c338-6f52",
             "hidden": false,
             "import": true,
             "targetId": "d8bf-e17f-d6fa-b7e8",
             "type": "selectionEntry",
-            "categoryLinks": [{"name": "Pistol replacement", "id": "471d-b32a-3937-40b7", "hidden": false, "primary": false, "targetId": "f06c-dfec-c720-57f1"}]
+            "categoryLinks": [{"name": "Pistol replacement", "id": "11e0-b76a-a2e8-ba02", "hidden": false, "primary": false, "targetId": "0e2e-d320-d686-aa68"}]
           },
           {
             "name": "Plasma pistol",
-            "id": "11cb-48d5-14ac-1916",
+            "id": "cfb2-967f-a9f6-718d",
             "hidden": false,
             "import": true,
             "targetId": "25c2-104f-fa0c-809e",
             "type": "selectionEntry",
-            "categoryLinks": [{"name": "Pistol replacement", "id": "4dca-64f5-dc6a-9fb4", "hidden": false, "primary": false, "targetId": "f06c-dfec-c720-57f1"}]
+            "categoryLinks": [{"name": "Pistol replacement", "id": "fea1-0d4f-f634-7778", "hidden": false, "primary": false, "targetId": "0e2e-d320-d686-aa68"}]
           },
-          {"name": "Heavy Bolt Pistol", "id": "7054-eb96-3614-542a", "hidden": false, "import": true, "targetId": "83a1-feb8-d495-aa28", "type": "selectionEntry"}
+          {"name": "Heavy Bolt Pistol", "id": "328a-9a47-fd58-6bd6", "hidden": false, "import": true, "targetId": "83a1-feb8-d495-aa28", "type": "selectionEntry"}
         ]
       }
     ]
