@@ -3408,24 +3408,6 @@
         ],
         "modifiers": [
           {
-            "field": "hidden",
-            "type": "set",
-            "value": true,
-            "conditions": [
-              {
-                "id": "0057-d636-d612-298f",
-                "childId": "9ed-cbf4-bfe5-90bf",
-                "field": "selections",
-                "includeChildForces": true,
-                "includeChildSelections": true,
-                "scope": "roster",
-                "shared": true,
-                "type": "lessThan",
-                "value": 1
-              }
-            ]
-          },
-          {
             "field": "b86f-44e3-c772-fcbd",
             "type": "set",
             "value": 2,
